@@ -9,20 +9,17 @@ minimum cost alignments.  It's provided as a Maven project written in
 Java.  Below are instructions for building and running a simple
 experiment.
 
-Build
------
+### Build
 
 1. Install a recent version of Maven
 2. Run 'mvn install' in the same directory as pom.xml
 
-Run
----
+### Run
 
 1. Install a recent version of Ant
 2. Run a simple experiment with 'ant -f msa.xml'
 
-Experiments
------------
+### Experiments
 
 When you run as described above the solver runs with the A* algorithm
 and solves a very simple instance.  Statistics are output to a
@@ -43,8 +40,7 @@ You can specify an alternative input directory with -Dinput
 Input files must end in '.seq' and be formatted the same way the
 included seq files are formatted.
 
-Files
------
+### Files
 
 msa/ref1_seq - a directory containing files for BAliBASE Ref.1 benchmarks
 msa/ref1_seq_easy - a directory containing files for BAliBASE Ref.1 benchmarks
