@@ -1,0 +1,37 @@
+CODE           1ldg
+REFERENCE      1
+NAME           lactate dehydrogenase
+
+SNUM           4
+LTOT           326
+LMAX           315
+LMIN           303
+IDMEAN         1
+IDMAX          8
+IDMIN          23
+RTOT           1240
+RBLOCK         932
+RPCBLOCK       75
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               1ldg      1hyhA      1hlpB      1lldA 
+
+INSERTIONS     1
+IPOS                 200
+ILEN                  10
+ICOMP              biais
+IREPART             1<H4
+
+BLOCKS        8
+BPOS                 5=10     12=28     30=35     45=52     66=80    94=196   214=260 275=305
+BSEQ                  k_g       g_g     lllld       d_a   dllll_g    r_npvd   l_l_l_l     p_gv
+BREPART                h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       1ldg      	Q27743    
+SEQUENCE       1hyhA     	P14295    
+SEQUENCE       1hlpB     	Q07841    
+SEQUENCE       1lldA     	P19869    
+

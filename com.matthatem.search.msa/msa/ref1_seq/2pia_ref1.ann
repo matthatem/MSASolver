@@ -1,0 +1,37 @@
+CODE           2pia
+REFERENCE      1
+NAME           phtalate reductase						
+
+SNUM           4
+LTOT           311
+LMAX           287
+LMIN           223
+IDMEAN         3
+IDMAX          16
+IDMIN          18
+RTOT           1027
+RBLOCK         400
+RPCBLOCK       38
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               2pia       1fnc       1fdr       1ndh 
+
+INSERTIONS     6
+IPOS                   18        49        73       106       211         
+ILEN                   10        10        10        20        15         
+ICOMP               biais    struct    struct    struct    struct         
+IREPART              1<h4      1<h4      2<h4      1<h4      2<h4         
+
+BLOCKS        9
+BPOS                10=18     36=45     53=58     67=71     80=96   111=128   140=157   166=170  193=204
+BSEQ                    k         g         y       iii     g_l_g      ly_l       gtg       lkl       cg
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       2pia      	P33164    
+SEQUENCE       1fnc      	P00455    
+SEQUENCE       1fdr      	P28861    
+SEQUENCE       1ndh      	P07514    
+

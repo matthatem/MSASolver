@@ -1,0 +1,37 @@
+CODE           1ad2
+REFERENCE      1
+NAME           ribosomal protein l1				
+
+SNUM           4
+LTOT           219
+LMAX           213
+LMIN           203
+IDMEAN         1
+IDMAX          6
+IDMIN          26
+RTOT           828
+RBLOCK         548
+RPCBLOCK       66
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY          rk1_cyapa  rl1_metja  rl1_halvo  rl1_sulso 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        5
+BPOS                22=66    96=130   135=150   155=178  194=208
+BSEQ                   lp      gprg         d         g     y_tm
+BREPART                h4        h4        h4        h4       h4
+
+
+SEQUENCE       rk1_cyapa 	P48125    
+SEQUENCE       rl1_metja 	P54050    
+SEQUENCE       rl1_halvo 	P41199    
+SEQUENCE       rl1_sulso 	P96038    
+

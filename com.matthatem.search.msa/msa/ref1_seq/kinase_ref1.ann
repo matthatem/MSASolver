@@ -1,0 +1,38 @@
+CODE           kinase
+REFERENCE      1
+NAME           protein kinase										
+
+SNUM           5
+LTOT           316
+LMAX           276
+LMIN           263
+IDMEAN         2
+IDMAX          13
+IDMIN          17
+RTOT           1351
+RBLOCK         685
+RPCBLOCK       50
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY         kcc2_yeast  dmk_human kpro_maize daf1_caeel       1csn 
+
+INSERTIONS     5
+IPOS                   35       120       159       180       219
+ILEN                   10        10        10        10        15
+ICOMP              struct    struct    struct     biais    struct
+IREPART              2<h5      1<h5      2<h5      2<h5      3<h5
+
+BLOCKS        11
+BPOS                 1=19     24=34     44=59     60=73     76=83     87=92    98=118   122=134   144=151   166=172   186=199
+BSEQ                  gxg       aik     ixxxi      iiie       i_i        ih  hrdikpdn       dfg     g_y_p     diws
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       kcc2_yeast	P22517    
+SEQUENCE       dmk_human 	Q09013    
+SEQUENCE       kpro_maize	P17801    
+SEQUENCE       daf1_caeel	P20792    
+SEQUENCE       1csn      	P40233    
+

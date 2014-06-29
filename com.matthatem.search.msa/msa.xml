@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse.ant.import?>
+<project basedir="." default="MSASolver" name="com.matthatem.ai.search">
+	<property environment="env"/>
+	<property name="target" value="1.6"/>
+	<property name="source" value="1.6"/>
+	<property name="input" value="msa/ref1_seq_easy"/>
+	<property name="instance" value="1aab_ref1.seq"/>
+	<property name="output" value="."/>
+	<property name="args" value="-a astar"/>
+	<!-- property name="xargs" value="-Xmx6G -Xrunhprof:cpu=times"/ -->
+	<!-- property name="xargs" value="-Xms40g -Xmx40g -XX:+UseParallelGC -XX:+UseParallelOldGC"/ -->
+	<!-- property name="xargs" value="-Xms40g -Xmx40g -XX:+UseParallelGC"/-->
+	<property name="xargs" value="-Xms10G -Xmx10G -XX:+UseConcMarkSweepGC"/>
+	
+	<path id="com.matthatem.ai.search.classpath">
+		<pathelement location="target/com.matthatem.search.msa-1.0-SNAPSHOT.jar"/>
+		<pathelement location="target/lib/commons-cli-1.2.jar"/>
+		<pathelement location="target/lib/hamcrest-core-1.1.jar"/>
+		<pathelement location="target/lib/hppc-0.5.0.jar"/>
+		<pathelement location="target/lib/junit-4.10.jar"/>		
+	</path>
+	
+	<target name="MSASolver">
+		<echo message="MSASolver: ${input}/${instance}"/>
+		<java classname="com.matthatem.ai.search.applications.MSASolver" failonerror="true" fork="yes" output="${output}/${instance}.out">			
+			<jvmarg line="${xargs}"/>
+			<arg line="-i ${input}/${instance} ${args}"/>
+			<classpath refid="com.matthatem.ai.search.classpath"/>
+		</java>
+	</target>
+
+	<target name="MSASolver.balibase">
+		<script language="javascript">
+		<![CDATA[
+			    importClass(java.io.File);
+			    fs = project.createDataType("fileset");
+				dir = project.getProperty("input");
+			    fs.setDir( new File( dir ) );
+			    fs.setIncludes( "*.seq" );
+			    srcFiles = fs.getDirectoryScanner( project ).getIncludedFiles( );
+			    for ( i = 0; i < srcFiles.length; i++ ) {
+			        var filename = srcFiles[i];
+					project.setProperty("instance", filename);
+					project.executeTarget("MSASolver");
+			    }
+		]]>
+		</script>
+	</target>
+	
+</project>

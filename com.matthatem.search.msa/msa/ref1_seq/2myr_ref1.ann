@@ -1,0 +1,37 @@
+CODE           2myr
+REFERENCE      1
+NAME           myrosinase															
+
+SNUM           4
+LTOT           557
+LMAX           474
+LMIN           340
+IDMEAN         5
+IDMAX          35
+IDMIN          13
+RTOT           1638
+RBLOCK         503
+RPCBLOCK       30
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               2myr      1gowA       1edg       1ceo 
+
+INSERTIONS     16
+IPOS                   17        28        81       117       130       167       216       237       252       312       358       374       387       416       430      438
+ILEN                    5        25        30        25        15        30        20        10        40        45        10         5        10        10         5       20
+ICOMP              struct    struct   biaised    struct   biaised   biaised    struct    struct    struct    struct   biaised   biaised   biaised    struct    struct   struct
+IREPART                 3         2         1         1         1         1         2         2         2         3         2         2         1         2         3        3
+
+BLOCKS        15
+BPOS                  2=6     24=27     56=73    90=109   127=129   137=148   155=160   296=303   362=373   378=386   402=413   426=430   434=438   441=449         
+BSEQ                  f_g      fxxf    d_rl_w   i_i_i_i       gfl     f_f_f    yxxxnq    diiiiy    i_i_ry       exg     r_y_l     gyxxw     dxxxf      g_fg         
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4        h4        h4        h4        h4        h4       h3
+
+
+SEQUENCE       2myr      	P29092    
+SEQUENCE       1gowA     	P22498    
+SEQUENCE       1edg      	P17901    
+SEQUENCE       1ceo      	P07985    
+

@@ -1,0 +1,40 @@
+CODE           1bbt3
+REFERENCE      1
+NAME           foot-and-mouth disease virus			
+
+SNUM           5
+LTOT           216
+LMAX           192
+LMIN           149
+IDMEAN         3
+IDMAX          16
+IDMIN          7
+RTOT           882
+RBLOCK         215
+RPCBLOCK       24
+
+REPARTITION    h3/h1/h1
+
+FAMILIES      3
+FAMILY              1bbt3      1aym3      1bbt2 
+FAMILY              1aym1 
+FAMILY              1bbt1 
+
+INSERTIONS     4
+IPOS                    8        72       132      148
+ILEN                   15        10        20       20
+ICOMP              struct    struct    struct   struct
+IREPART              1<h3      1<H1      1<H1     2<H3
+
+BLOCKS        4
+BPOS                51=69     83=91   113=127         
+BSEQ                lagla     ppg_p        pw         
+BREPART                h5        h5       h5
+
+
+SEQUENCE       1bbt3     	P03305    
+SEQUENCE       1aym3     	Q82122    
+SEQUENCE       1bbt2     	P03305    
+SEQUENCE       1aym1     	Q82122    
+SEQUENCE       1bbt1     	P03305    
+

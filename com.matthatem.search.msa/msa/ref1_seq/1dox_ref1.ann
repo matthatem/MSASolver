@@ -1,0 +1,37 @@
+CODE           1dox
+REFERENCE      1
+NAME           ferredoxin [2fe-2s]
+
+SNUM           4
+LTOT           108
+LMAX           96
+LMIN           91
+IDMEAN         46
+IDMAX          62
+IDMIN          40
+RTOT           374
+RBLOCK         344
+RPCBLOCK       91
+
+REPARTITION    H4
+
+FAMILIES      1
+FAMILY               1frr       1fxa dmpp_psesp  fer_halha 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        1
+BPOS               14=92
+BSEQ                    
+BREPART               H4
+
+
+SEQUENCE       1frr      	P00235    
+SEQUENCE       1fxa      	P06543    
+SEQUENCE       dmpp_psesp	P19734    
+SEQUENCE       fer_halha 	P00216    
+

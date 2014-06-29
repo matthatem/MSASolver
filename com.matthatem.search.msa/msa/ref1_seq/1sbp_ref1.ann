@@ -1,0 +1,38 @@
+CODE           1sbp
+REFERENCE      1
+NAME           sulfate binding protein
+
+SNUM           5
+LTOT           304
+LMAX           263
+LMIN           224
+IDMEAN         2
+IDMAX          25
+IDMIN          16
+RTOT           1239
+RBLOCK         350
+RPCBLOCK       28
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY               1sbp       1wod       1mrp       1pot       1atg 
+
+INSERTIONS     5
+IPOS                    8        77       105       140       198
+ILEN                    5        25         5        15        10
+ICOMP              struct    struct    struct    struct    struct
+IREPART                 1         2         1         3         1         
+
+BLOCKS        11
+BPOS                  4=9     24=38     48=52     59=62    97=101   120=125   137=142   159=162   187=191   208=212   242=250
+BSEQ                  l_l    w_tg_v       l_l       dll       lll       lll      l_lg       l_l      l_ll       lll     ylxyl
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5
+
+
+SEQUENCE       1sbp      	P02906    
+SEQUENCE       1wod      	P37329    
+SEQUENCE       1mrp      	P35755    
+SEQUENCE       1pot      	P23861    
+SEQUENCE       1atg      	P37734    
+

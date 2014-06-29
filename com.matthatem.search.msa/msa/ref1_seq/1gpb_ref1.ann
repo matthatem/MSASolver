@@ -1,0 +1,38 @@
+CODE           1gpb
+REFERENCE      1
+NAME           glycogen phosphorylase b										
+
+SNUM           5
+LTOT           854
+LMAX           828
+LMIN           796
+IDMEAN         1
+IDMAX          8
+IDMIN          43
+RTOT           4049
+RBLOCK         3615
+RPCBLOCK       89
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY                gpb       ahpA       ygpA phsg_ecoli phsg_haein 
+
+INSERTIONS     6
+IPOS                   56       192       297       541       574         
+ILEN                    5         5        10         5        10         
+ICOMP              struct     biais    struct    struct    struct         
+IREPART              4<h5      1<h5      1<h5      1<h5      1<h5         
+
+BLOCKS        12
+BPOS                13=46    66=106   110=188   197=296   308=415   419=489   492=534   543=572   582=703   712=716   719=747  751=807
+BSEQ              l_l_l_e    y_ef_d      gglg         
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       gpb       	P00489    
+SEQUENCE       ahpA      	P00490    
+SEQUENCE       ygpA      	P06738    
+SEQUENCE       phsg_ecoli	P13031    
+SEQUENCE       phsg_haein	P45180    
+

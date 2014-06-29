@@ -1,0 +1,38 @@
+CODE           1pamA
+REFERENCE      1
+NAME           cyclodextrin 														
+
+SNUM           5
+LTOT           678
+LMAX           572
+LMIN           435
+IDMEAN         4
+IDMAX          38
+IDMIN          15
+RTOT           2454
+RBLOCK         665
+RPCBLOCK       27
+
+REPARTITION    H5
+
+FAMILIES      1
+FAMILY              1pamA       1smd       1jdc       1bf2       1vjs 
+
+INSERTIONS     15
+IPOS                   11       128       150       167       172       180       233       248       278       321       354       388       422       449      462
+ILEN                   30        15        10        10         5         5        15        25        10        10        40        10        10        10       10
+ICOMP               biais     biais    struct    struct    struct    struct    struct    struct    struct     biais    struct     biais     biais    struct    biais
+IREPART                h2   1<h2+h1     h2+h1        h1     h2+h1   1<h2+h1   1<h2+h1        h1     h2+h1     h1+h1        h1      1<h2        h2        h1       h1
+
+BLOCKS        14
+BPOS                41=45     53=61   100=127   186=200   208=218   240=245   309=316   332=339   341=348   378=386   416=422   438=448   456=462         
+BSEQ                 w_ii     l_g_i      d_nh       d_d       rid         e       dnh       g_i      i_rk     iii_n       g_e     vxv_g         
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       1pamA     	P05618    
+SEQUENCE       1smd      	P04745    
+SEQUENCE       1jdc      	P13507    
+SEQUENCE       1bf2      	P10342    
+SEQUENCE       1vjs      	P06278    
+

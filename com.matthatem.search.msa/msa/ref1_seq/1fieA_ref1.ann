@@ -1,0 +1,37 @@
+CODE           1fieA
+REFERENCE      1
+NAME           coagulation factor xiii			
+
+SNUM           4
+LTOT           689
+LMAX           675
+LMIN           664
+IDMEAN         1
+IDMAX          7
+IDMIN          33
+RTOT           2682
+RBLOCK         2444
+RPCBLOCK       91
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY         tgl3_mouse tglc_human tgl4_human tglh_tactr 
+
+INSERTIONS     4
+IPOS                  125       333       449      462
+ILEN                    5         5        10       10
+ICOMP              struct    struct    struct   struct
+IREPART              1<h4      1<h4      1<h4     1<h4
+
+BLOCKS        4
+BPOS               16=124   132=446   479=622  636=674
+BSEQ            hh_rrgq_w    e_p_g
+BREPART                h4        h4        h4       h4
+
+
+SEQUENCE       tgl3_mouse	Q08189    
+SEQUENCE       tglc_human	P21980    
+SEQUENCE       tgl4_human	P49221    
+SEQUENCE       tglh_tactr	Q05187    
+

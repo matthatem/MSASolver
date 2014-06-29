@@ -1,0 +1,38 @@
+CODE           1ycc
+REFERENCE      1
+NAME           cytochrome e			
+
+SNUM           4
+LTOT           125
+LMAX           116
+LMIN           90
+IDMEAN         33
+IDMAX          45
+IDMIN          26
+RTOT           426
+RBLOCK         243
+RPCBLOCK       57
+
+REPARTITION    h3/h1
+
+FAMILIES      2
+FAMILY               1ycc       1c2r       3c2c 
+FAMILY               1etp 
+
+INSERTIONS     3
+IPOS                   26        81         
+ILEN                   10        15         
+ICOMP              struct    struct         
+IREPART              1<h3      3<h3         
+
+BLOCKS        4
+BPOS                 6=26     41=56     66=81   97=107
+BSEQ              g_g_c_c       g_y     ii_ii     diii
+BREPART                h4        h4      3<h4       h4
+
+
+SEQUENCE       1ycc      	P00044    
+SEQUENCE       1c2r      	P00094    
+SEQUENCE       3c2c      	P00092    
+SEQUENCE       1etp      	Q52369    
+

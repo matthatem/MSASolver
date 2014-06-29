@@ -1,0 +1,38 @@
+CODE           1csp
+REFERENCE      1
+NAME           cold shock protein
+
+SNUM           5
+LTOT           76
+LMAX           70
+LMIN           66
+IDMEAN         51
+IDMAX          60
+IDMIN          43
+RTOT           339
+RBLOCK         275
+RPCBLOCK       81
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY        1csp      1mef    csp7_strcl    grp2_nicsy   cbfx_mouse
+
+INSERTIONS     0
+IPOS           
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        4
+BPOS                 4=18     21-34     38-54    58-66
+BSEQ                  kwf      vfvh     ktlee    a_nvt
+BREPART                h5        h5        h5       h5
+
+
+SEQUENCE       1csp      	P32081    
+SEQUENCE       1mef      	P15277    
+SEQUENCE       csp7_strcl	Q01761    
+SEQUENCE       grp2_nicsy	P27484    
+SEQUENCE       cbfx_mouse	P27817    
+

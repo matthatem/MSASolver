@@ -1,0 +1,37 @@
+CODE           1fmb
+REFERENCE      1
+NAME           hiv-1 protease	
+
+SNUM           4
+LTOT           106
+LMAX           104
+LMIN           98
+IDMEAN         49
+IDMAX          86
+IDMIN          35
+RTOT           400
+RBLOCK         364
+RPCBLOCK       91
+
+REPARTITION    H4
+
+FAMILIES      1
+FAMILY               1fmb      7upjB  pol_sivcz  POL_SIVMK 
+
+INSERTIONS     0
+IPOS           
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        2
+BPOS                 2=35   48=103
+BSEQ                  dtg    ggigg
+BREPART                H4       H4
+
+
+SEQUENCE       1fmb      	P32542    
+SEQUENCE       7upjB     	P03366    
+SEQUENCE       pol_sivcz 	P17283    
+SEQUENCE       POL_SIVMK 	P05897    
+

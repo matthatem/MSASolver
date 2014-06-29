@@ -1,0 +1,37 @@
+CODE           1mrj
+REFERENCE      1
+NAME           alpha tricosanthin							
+
+SNUM           4
+LTOT           279
+LMAX           266
+LMIN           247
+IDMEAN         1
+IDMAX          6
+IDMIN          26
+RTOT           1025
+RBLOCK         632
+RPCBLOCK       61
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               1mrj       1abr       1apa       1apg 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        8
+BPOS                 2=21     34=37     46=74     77_81   107=136   151=175   177=200  208=228
+BSEQ              f_gss_y      ipii    ry_nxy       g_y      yxxy   q_eaary     p_e_w         
+BREPART                h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       1mrj      	P09989    
+SEQUENCE       1abr      	P11140    
+SEQUENCE       1apa      	Q03464    
+SEQUENCE       1apg      	P02879    
+

@@ -1,0 +1,37 @@
+CODE           3cyr
+REFERENCE      1
+NAME           Cytochrome c3
+
+SNUM           4
+LTOT           116
+LMAX           109
+LMIN           95
+IDMEAN         31
+IDMAX          38
+IDMIN          26
+RTOT           414
+RBLOCK         256
+RPCBLOCK       61
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY         cyc3_desde       1wad       1cy3       1czj 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        5
+BPOS                17=35     38=54     62=70     76=83    87=95
+BSEQ            h_h_cxxch   cxxxxch     vvxvv     cxxch     c_ch
+BREPART                h4        h4        h4        h4       h4
+
+
+SEQUENCE       cyc3_desde	P00134    
+SEQUENCE       1wad      	P00133    
+SEQUENCE       1cy3      	P00136    
+SEQUENCE       1czj      	P38554    
+

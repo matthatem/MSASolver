@@ -1,0 +1,37 @@
+CODE           1aab
+REFERENCE      1
+NAME           high mobility group protein	
+
+SNUM           4
+LTOT           82
+LMAX           79
+LMIN           67
+IDMEAN         30
+IDMAX          35
+IDMIN          24
+RTOT           291
+RBLOCK         168
+RPCBLOCK       57
+
+REPARTITION    H4
+
+FAMILIES      1
+FAMILY         hmgl_trybr hmgt_mouse hmgb_chite hmgl_wheat 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        3
+BPOS                 7=19     35=44    49=67
+BSEQ              pkrfmff      gaaw         
+BREPART                H4        H4       H4
+
+
+SEQUENCE       hmgl_trybr	P26586    
+SEQUENCE       hmgt_mouse	P40630    
+SEQUENCE       hmgb_chite	P40623    
+SEQUENCE       hmgl_wheat	P40621    
+

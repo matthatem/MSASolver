@@ -1,0 +1,38 @@
+CODE           1thm
+REFERENCE      1
+NAME           serine protease				
+
+SNUM           4
+LTOT           293
+LMAX           279
+LMIN           269
+IDMEAN         1
+IDMAX          6
+IDMIN          36
+RTOT           1097
+RBLOCK         816
+RPCBLOCK       74
+
+REPARTITION    h3/h1
+
+FAMILIES      2
+FAMILY               1st3       1sbc       1sbt 
+FAMILY               2prk 
+
+INSERTIONS     3
+IPOS                   12       116         
+ILEN                    5        10         
+ICOMP               biais     biais         
+IREPART              1<H1      1<h1         
+
+BLOCKS        5
+BPOS                 1=11     23=41    58=111   119=153  162=244
+BSEQ                  pyg    dtg_hp hgth_glew     gllll   masphv
+BREPART                h4        h4        h4        h4       h4
+
+
+SEQUENCE       1st3      	P29599    
+SEQUENCE       1sbc      	P00780    
+SEQUENCE       1sbt      	P00782    
+SEQUENCE       2prk      	P06873    
+

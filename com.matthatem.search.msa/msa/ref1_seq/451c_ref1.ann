@@ -1,0 +1,39 @@
+CODE           451c
+REFERENCE      1
+NAME           cytochrome c				
+
+SNUM           5
+LTOT           94
+LMAX           87
+LMIN           70
+IDMEAN         27
+IDMAX          34
+IDMIN          23
+RTOT           400
+RBLOCK         219
+RPCBLOCK       54
+
+REPARTITION    h2/h3
+
+FAMILIES      2
+FAMILY          cy2_rhoge c550_bacsu 
+FAMILY               1dvh       1etp       1cch 
+
+INSERTIONS     2
+IPOS                   52         
+ILEN                   10         
+ICOMP              struct         
+IREPART              2<h3         
+
+BLOCKS        5
+BPOS                12=21     33=45     47=52     60=65    70=82
+BSEQ                 cxxc       g_g       rvr       pmp       dw
+BREPART                h5      3<h5        h5        h5       h5
+
+
+SEQUENCE       cy2_rhoge 	P00097    
+SEQUENCE       c550_bacsu	P24469    
+SEQUENCE       1dvh      	P04032    
+SEQUENCE       1etp      	Q52369    
+SEQUENCE       1cch      	P00101    
+

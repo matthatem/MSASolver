@@ -1,0 +1,37 @@
+CODE           1ad3
+REFERENCE      1
+NAME           aldehyde dehydrogenase			
+
+SNUM           4
+LTOT           459
+LMAX           447
+LMIN           424
+IDMEAN         1
+IDMAX          4
+IDMIN          41
+RTOT           1746
+RBLOCK         1520
+RPCBLOCK       87
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY         dha2_yeast dhac_mouse dha5_yeast dhal_ecoli 
+
+INSERTIONS     2
+IPOS                   74         
+ILEN                   10         
+ICOMP              struct         
+IREPART              1<h4         
+
+BLOCKS        4
+BPOS                 9=74    93=268   275=306  326=423
+BSEQ                    
+BREPART                h4        h4        h4       h4
+
+
+SEQUENCE       dha2_yeast	P32872    
+SEQUENCE       dhac_mouse	P24549    
+SEQUENCE       dha5_yeast	P47771    
+SEQUENCE       dhal_ecoli	P23883    
+

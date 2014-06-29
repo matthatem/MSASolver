@@ -1,0 +1,38 @@
+CODE           1gtr
+REFERENCE      1
+NAME           Glutaminyl-tRNA synthetase
+
+SNUM           5
+LTOT           451
+LMAX           436
+LMIN           419
+IDMEAN         1
+IDMAX          10
+IDMIN          35
+RTOT           2141
+RBLOCK         1660
+RPCBLOCK       77
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY          syq_haein  syq_human  syq_luplu  syq_yeast syep_human 
+
+INSERTIONS     4
+IPOS                  128       345       387         
+ILEN                   15         5        10         
+ICOMP               biais    struct    struct         
+IREPART              1<h5      1<h5      4<h5         
+
+BLOCKS        9
+BPOS                20=84    91=123   138=174   180=245   251=310   317=339   359=385   396=404  415=426
+BSEQ                 high    dyfd_y       g_g     c_c_w gwdd_rrrf       r_p    pf_fie       i_i    i_i_i
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       syq_haein 	P43831    
+SEQUENCE       syq_human 	P47897    
+SEQUENCE       syq_luplu 	P52780    
+SEQUENCE       syq_yeast 	P13188    
+SEQUENCE       syep_human	P07814    
+

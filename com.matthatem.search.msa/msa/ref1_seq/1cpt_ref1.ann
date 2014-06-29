@@ -1,0 +1,38 @@
+CODE           1cpt
+REFERENCE      1
+NAME           cytochrome p450								
+
+SNUM           4
+LTOT           461
+LMAX           434
+LMIN           378
+IDMEAN         2
+IDMAX          16
+IDMIN          14
+RTOT           1590
+RBLOCK         828
+RPCBLOCK       52
+
+REPARTITION    h3/h1
+
+FAMILIES      2
+FAMILY               1cpt       1oxa       1phd 
+FAMILY              2hpdA 
+
+INSERTIONS     7
+IPOS                   49        70       149       165       256       324         
+ILEN                   15         5        10        10        20        10         
+ICOMP              struct    struct    struct    struct    struct    struct         
+IREPART              1<h3      1<h3      1<h1      1<h1      1<h1      1<h1         
+
+BLOCKS        10
+BPOS                 6=14     16=23    82=120   142=148   174=194   197=206   212=248   260=289   292=308  330=358
+BSEQ                 y_lr     lxlxg       dpp      lllg    yxy_rr     dllll lll_lll_piii_ee_iii       iii fgxg_clg
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       1cpt      	P33006    
+SEQUENCE       1oxa      	Q00441    
+SEQUENCE       1phd      	P00183    
+SEQUENCE       2hpdA     	P14779    
+

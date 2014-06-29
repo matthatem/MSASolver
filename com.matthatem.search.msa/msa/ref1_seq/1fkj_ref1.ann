@@ -1,0 +1,38 @@
+CODE           1fkj
+REFERENCE      1
+NAME           immunophilin		
+
+SNUM           5
+LTOT           115
+LMAX           110
+LMIN           98
+IDMEAN         44
+IDMAX          52
+IDMIN          38
+RTOT           517
+RBLOCK         380
+RPCBLOCK       73
+
+REPARTITION    H5
+
+FAMILIES      1
+FAMILY         fkba_ecoli fkb2_yeast fkbb_ecoli fkb3_bovin  mip_chltr 
+
+INSERTIONS     2
+IPOS                   40         
+ILEN                   10         
+ICOMP               BIAIS         
+IREPART              1<H5         
+
+BLOCKS        4
+BPOS                19=40     44=48     51=83   87=101
+BSEQ                  ytg      gkef   gw_g_yg    pp_fd
+BREPART                H5        H5        H5       h5
+
+
+SEQUENCE       fkba_ecoli	P45523    
+SEQUENCE       fkb2_yeast	P32472    
+SEQUENCE       fkbb_ecoli	P39311    
+SEQUENCE       fkb3_bovin	P26884    
+SEQUENCE       mip_chltr 	P26623    
+

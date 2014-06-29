@@ -1,0 +1,37 @@
+CODE           1zin
+REFERENCE      1
+NAME           adenylate kinase	
+
+SNUM           4
+LTOT           224
+LMAX           216
+LMIN           206
+IDMEAN         1
+IDMAX          4
+IDMIN          38
+RTOT           852
+RBLOCK         756
+RPCBLOCK       88
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               1zip     2eck-B     2ak3-B       2ak2 
+
+INSERTIONS     2
+IPOS                  100      190
+ILEN                    5        5
+ICOMP              struct   struct
+IREPART              2<H4      1h4
+
+BLOCKS        6
+BPOS                 1=72     77=99   107=144   149=186   192=200  204=212
+BSEQ                gagkg    dgfprt d_r_yh_pp d_g_dd_yy       l_l    l_l_l
+BREPART                h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       1zip      	P27142    
+SEQUENCE       2eck-B    	P05082    
+SEQUENCE       2ak3-B    	P08760    
+SEQUENCE       2ak2      	P08166    
+

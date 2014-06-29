@@ -1,0 +1,37 @@
+CODE           1pysA
+REFERENCE      1
+NAME           phenylalanyl-trna synthetase		
+
+SNUM           4
+LTOT           280
+LMAX           266
+LMIN           237
+IDMEAN         4
+IDMAX          14
+IDMIN          35
+RTOT           1005
+RBLOCK         924
+RPCBLOCK       91
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY         SYFA_THETH SYFA_HAEIN SYFA_BACSU SYFA_MYCGE 
+
+INSERTIONS     3
+IPOS                   73       186      217
+ILEN                   15        10       10
+ICOMP              struct     biais       cys   struct
+IREPART              1<H4      2<H4     1<h4
+
+BLOCKS        5
+BPOS                2=103   108=122   127=185   192=210  228=263
+BSEQ            vdv_lllrt     pp_fr  dxth_fpf   wle_gag   glg_qf
+BREPART                h4        h4        h4        h4       h4
+
+
+SEQUENCE       SYFA_THETH	P27001    
+SEQUENCE       SYFA_HAEIN	P43819    
+SEQUENCE       SYFA_BACSU	P17921    
+SEQUENCE       SYFA_MYCGE	P47436    
+

@@ -1,0 +1,39 @@
+CODE           1fjlA
+REFERENCE      1
+NAME           homeodomain	basique
+
+SNUM           6
+LTOT           76
+LMAX           70
+LMIN           58
+IDMEAN         28
+IDMAX          35
+IDMIN          20
+RTOT           398
+RBLOCK         270
+RPCBLOCK       67
+
+REPARTITION    H6
+
+FAMILIES      1
+FAMILY              1fjlA       1ftz       1ftt      1mnmC      1au7A      1akhA 
+
+INSERTIONS     0
+IPOS           
+ILEN           
+ICOMP                   
+IREPART                 
+
+BLOCKS        2
+BPOS                 9=21    26=57
+BSEQ               f_le_f       wf
+BREPART                h6       h6
+
+
+SEQUENCE       1fjlA     	P06601    
+SEQUENCE       1ftz      	P02835    
+SEQUENCE       1ftt      	P23441    
+SEQUENCE       1mnmC     	P11746    
+SEQUENCE       1au7A     	P10037    
+SEQUENCE       1akhA     	P01366    
+

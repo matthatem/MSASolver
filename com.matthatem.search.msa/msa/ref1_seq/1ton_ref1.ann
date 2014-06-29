@@ -1,0 +1,38 @@
+CODE           1ton
+REFERENCE      1
+NAME           tonin
+
+SNUM           5
+LTOT           269
+LMAX           244
+LMIN           224
+IDMEAN         1
+IDMAX          12
+IDMIN          26
+RTOT           1173
+RBLOCK         740
+RPCBLOCK       63
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY               1ton       1try       1hyl       1rtf       1aut 
+
+INSERTIONS     4
+IPOS                   21        77       135         
+ILEN                    5        20        10         
+ICOMP               biais    struct     biais         
+IREPART              2<h5      1<h5      1<h5         
+
+BLOCKS        11
+BPOS                 1=18     23=41     44=50     66=75    93=100   110=116   126=133   145=159   166=193   196=202  208=227
+BSEQ                 g_pw     cg_hc      iiig         h     dlail    ixxixi       gwg         c    gdsggp      giis      c_w
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       1ton      	P00759    
+SEQUENCE       1try      	P35049    
+SEQUENCE       1hyl      	P08897    
+SEQUENCE       1rtf      	P00750    
+SEQUENCE       1aut      	P04070    
+

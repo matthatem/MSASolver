@@ -1,0 +1,36 @@
+CODE           1ped
+REFERENCE      1
+NAME           alcohol dehydrogenase										
+
+SNUM           3
+LTOT           398
+LMAX           374
+LMIN           327
+IDMEAN         2
+IDMAX          41
+IDMIN          21
+RTOT           1052
+RBLOCK         471
+RPCBLOCK       44
+
+REPARTITION    H3
+
+FAMILIES      1
+FAMILY              1pedA      1qorA      2ohxA 
+
+INSERTIONS     3
+IPOS                   84       284         
+ILEN                   50        10         
+ICOMP              struct    struct         
+IREPART                 1         2         
+
+BLOCKS        11
+BPOS                12=19     26=40     54=82   134=156   176=196   207=219   223=233   247=256   260=265   278=284  298=311
+BSEQ                lxxxe       d_d    g_g_gd      ie_y gxg_g_iig     yg_in     d_i_i   dtixxxi       gii       i_i    r_i_y
+BREPART                h3        h3        h3        h3        h3        h3        h3        h3        h3        h3       h3
+
+
+SEQUENCE       1pedA     	P25984    
+SEQUENCE       1qorA     	P28304    
+SEQUENCE       2ohxA     	P00327    
+

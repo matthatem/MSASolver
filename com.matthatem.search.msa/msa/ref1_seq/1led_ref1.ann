@@ -1,0 +1,37 @@
+CODE           1led
+REFERENCE      1
+NAME           lectin	
+
+SNUM           4
+LTOT           257
+LMAX           243
+LMIN           232
+IDMEAN         1
+IDMAX          5
+IDMIN          39
+RTOT           947
+RBLOCK         692
+RPCBLOCK       73
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               1led       1lte      1fatC      1tepD 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        10
+BPOS                 4=11     22=41     50=81    87=100   107=113   126=142   145=161   176=191   197=222  225=238
+BSEQ                  fsf     gxlxl     g_fxf      adgl      gxxg    nxwxdp      gidv    ydassk      d_pe       sw
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       1led      	P24146    
+SEQUENCE       1lte      	P16404    
+SEQUENCE       1fatC     	P05087    
+SEQUENCE       1tepD     	P02872    
+

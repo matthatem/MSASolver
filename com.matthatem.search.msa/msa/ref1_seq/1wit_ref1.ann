@@ -1,0 +1,38 @@
+CODE           1wit
+REFERENCE      1
+NAME           twitchin		
+
+SNUM           5
+LTOT           113
+LMAX           106
+LMIN           89
+IDMEAN         17
+IDMAX          22
+IDMIN          14
+RTOT           484
+RBLOCK         205
+RPCBLOCK       42
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY               1wit       1tlk       2ncm       1hnf      1vcaA 
+
+INSERTIONS     2
+IPOS                   47         
+ILEN                   15         
+ICOMP               biais         
+IREPART              1<H5         
+
+BLOCKS        4
+BPOS                17=28     32=36    57=80	86=92
+BSEQ                  g_g       p_w        y	elxl
+BREPART                h5        h5       h5	h5
+
+
+SEQUENCE       1wit      	Q23550    
+SEQUENCE       1tlk      	P56276    
+SEQUENCE       2ncm      	P13596    
+SEQUENCE       1hnf      	P06729    
+SEQUENCE       1vcaA     	P19320    
+

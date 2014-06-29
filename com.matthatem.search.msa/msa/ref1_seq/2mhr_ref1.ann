@@ -1,0 +1,38 @@
+CODE           2mhr
+REFERENCE      1
+NAME           hemerythrin
+
+SNUM           5
+LTOT           119
+LMAX           118
+LMIN           110
+IDMEAN         45
+IDMAX          58
+IDMIN          36
+RTOT           572
+RBLOCK         490
+RPCBLOCK       85
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY               1hrb hem1_phago  mp2_nerdi hemt_sipcu hemt_linun 
+
+INSERTIONS     0
+IPOS           
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        5
+BPOS                 3=34     42=63     65=67     69=89   92=110
+BSEQ               y_d_lf        hf         y    hk_h_f  w_wl_df
+BREPART                h5        h5        h5        h5       h5
+
+
+SEQUENCE       1hrb      	P02244    
+SEQUENCE       hem1_phago	P27686    
+SEQUENCE       mp2_nerdi 	P80255    
+SEQUENCE       hemt_sipcu	P22766    
+SEQUENCE       hemt_linun	P22764    
+

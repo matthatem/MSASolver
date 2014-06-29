@@ -1,0 +1,39 @@
+CODE           1lvl
+REFERENCE      1
+NAME           dihydrolipoamide dehydrogenase												
+
+SNUM           4
+LTOT           517
+LMAX           449
+LMIN           401
+IDMEAN         3
+IDMAX          38
+IDMIN          15
+RTOT           1712
+RBLOCK         564
+RPCBLOCK       32
+
+REPARTITION    h2/h1/h1
+
+FAMILIES      3
+FAMILY               1lvl       3grs 
+FAMILY               1nhp 
+FAMILY              1fcdA 
+
+INSERTIONS     11
+IPOS                   52       130       147       155       179       249       309       353       374       394         
+ILEN                   40        10         5        25        10        10        10        15        15         5         
+ICOMP              struct    struct    struct    struct     biais    struct    struct    struct     biais     biais         
+IREPART              2<h2        h1      1<h2     h1+h1        h1      1<h2        h1     h2+h1     h2+h1     h2+h1         
+
+BLOCKS        13
+BPOS                 7=27     29=35   136=143   173=178   184=190   197=205   211=222   226=236   257=265   285=290   295=307   316=327  410=429
+BSEQ                ggggg      iiie     iii_g     iiiig        ie       iii         i         i      d_ii     giiid      s_ig        qg        d
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       1lvl      	P09063    
+SEQUENCE       3grs      	P00390    
+SEQUENCE       1nhp      	P37062    
+SEQUENCE       1fcdA     	Q06530    
+

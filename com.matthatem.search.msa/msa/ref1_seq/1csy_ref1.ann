@@ -1,0 +1,38 @@
+CODE           1csy
+REFERENCE      1
+NAME           SH2			
+
+SNUM           5
+LTOT           110
+LMAX           104
+LMIN           100
+IDMEAN         30
+IDMAX          38
+IDMIN          27
+RTOT           510
+RBLOCK         285
+RPCBLOCK       55
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY               1csy       1gri       1aya       2pna       1bfi 
+
+INSERTIONS     1
+IPOS                  87
+ILEN                   5
+ICOMP             struct
+IREPART                4
+
+BLOCKS        5
+BPOS                 7=21     27=37     40=57     73=83    96=97
+BSEQ                    w     gxfli       gxy       elv       yp
+BREPART                h5        h5        h5        h5       h5
+
+
+SEQUENCE       1csy      	P43405    
+SEQUENCE       1gri      	P29354    
+SEQUENCE       1aya      	P35235    
+SEQUENCE       2pna      	P23727    
+SEQUENCE       1bfi      	P27986    
+

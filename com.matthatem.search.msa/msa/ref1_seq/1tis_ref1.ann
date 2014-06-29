@@ -1,0 +1,38 @@
+CODE           1tis
+REFERENCE      1
+NAME           Thymidylate sythase
+
+SNUM           5
+LTOT           314
+LMAX           295
+LMIN           263
+IDMEAN         3
+IDMAX          12
+IDMIN          43
+RTOT           1413
+RBLOCK         1235
+RPCBLOCK       87
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY          tysy_bpt4 tysy_ecoli drts_toxgo tysy_cryne drts_leiam 
+
+INSERTIONS     5
+IPOS                   74        94       114       165      242
+ILEN                   10        15        15        10       15
+ICOMP              struct    struct    struct     biais   struct
+IREPART              1<H5      3<h5      3<h5      1<h5     1<h5
+
+BLOCKS        7
+BPOS                 3=38     42=72     82=94   103=114   116=164   169=242  255=285
+BSEQ                qy_rw     fp_wf        wd    gp_qwr  dq_rr_ch    yq_pfn    k_d_h
+BREPART                h5        h5        h5       h5h        h5        h5       h5
+
+
+SEQUENCE       tysy_bpt4 	P00471    
+SEQUENCE       tysy_ecoli	P00470    
+SEQUENCE       drts_toxgo	Q07422    
+SEQUENCE       tysy_cryne	P45351    
+SEQUENCE       drts_leiam	P16126    
+

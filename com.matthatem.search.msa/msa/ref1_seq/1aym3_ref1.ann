@@ -1,0 +1,37 @@
+CODE           1aym3
+REFERENCE      1
+NAME           rhinovirus 16 coat protein					
+
+SNUM           4
+LTOT           248
+LMAX           244
+LMIN           219
+IDMEAN         1
+IDMAX          8
+IDMIN          26
+RTOT           932
+RBLOCK         592
+RPCBLOCK       63
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY              1mec3      1fmd3      1r1a3 POLG_HE71M 
+
+INSERTIONS     2
+IPOS                   54         
+ILEN                   10         
+ICOMP               biais         
+IREPART              2<H4         
+
+BLOCKS        6
+BPOS                 2=19     23=27     37=54    91=171   182=187  206=224
+BSEQ                   pv       pay     g_e_e   ppgxxxp        gw      sac
+BREPART                h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       1mec3     	P12296    
+SEQUENCE       1fmd3     	P15072    
+SEQUENCE       1r1a3     	P23008    
+SEQUENCE       POLG_HE71M	Q66479    
+

@@ -1,0 +1,38 @@
+CODE           1krn
+REFERENCE      1
+NAME           serine protease 		
+
+SNUM           5
+LTOT           82
+LMAX           82
+LMIN           66
+IDMEAN         45
+IDMAX          53
+IDMIN          37
+RTOT           390
+RBLOCK         250
+RPCBLOCK       64
+
+REPARTITION    H5
+
+FAMILIES      1
+FAMILY         plmn_petma   urot_rat urtg_desro hgfa_human fa12_human 
+
+INSERTIONS     3
+IPOS                   31        59         
+ILEN                    5        10         
+ICOMP                   
+IREPART                 4         4         
+
+BLOCKS        3
+BPOS                 2=29     43=57    60=66
+BSEQ           c_yrg_c_wxs ycrnpd_wc      eyc
+BREPART                h5        h5       h5
+
+
+SEQUENCE       plmn_petma	P33574    
+SEQUENCE       urot_rat  	P19637    
+SEQUENCE       urtg_desro	P49150    
+SEQUENCE       hgfa_human	Q04756    
+SEQUENCE       fa12_human	P00748    
+

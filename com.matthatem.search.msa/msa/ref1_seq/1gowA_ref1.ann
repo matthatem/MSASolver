@@ -1,0 +1,38 @@
+CODE           1gowA
+REFERENCE      1
+NAME           beta_glycosidase											
+
+SNUM           4
+LTOT           546
+LMAX           481
+LMIN           451
+IDMEAN         3
+IDMAX          26
+IDMIN          25
+RTOT           1877
+RBLOCK         1156
+RPCBLOCK       61
+
+REPARTITION    h3/h1
+
+FAMILIES      2
+FAMILY               1gow       1pbg       1cbg 
+FAMILY               1myr 
+
+INSERTIONS     12
+IPOS                   39        91       160       231       256       300       307       311       332       339       353      394
+ILEN                   10        30        15        15         5         5        10        10        20        10        10       15
+ICOMP              struct     biais     biais    struct     biais    struct    struct    struct    struct     biais     biais   struct
+IREPART              3<h4      1<h4      1<h4      2<h4      2<h4      1<h4      3<h4      2<h4      3<h4      1<h4      1<h4     3<h4
+
+BLOCKS        12
+BPOS                 3=23     33=39     54=91   123=157   174=215   242=251   288=299   312=329   361=379   383=393   395=467         
+BSEQ               fif_fq      wxxw  d_yxxy_r  n_y_hxxp y_i_y_y_y       h_i       w_g    dflgxn      ypeg      teng   y_y_y_y         
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       1gow      	P22498    
+SEQUENCE       1pbg      	P11546    
+SEQUENCE       1cbg      	P26205    
+SEQUENCE       1myr      	P29092    
+

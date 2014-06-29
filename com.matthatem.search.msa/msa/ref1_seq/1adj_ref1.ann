@@ -1,0 +1,37 @@
+CODE           1adj
+REFERENCE      1
+NAME           histidyl-trna synthetase
+
+SNUM           4
+LTOT           421
+LMAX           418
+LMIN           404
+IDMEAN         1
+IDMAX          3
+IDMIN          29
+RTOT           1648
+RBLOCK         1520
+RPCBLOCK       92
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY          syh_mycle  syh_porpu  syh_streq  syh_mycge 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        6
+BPOS                 5=30     34=94    99=182   187=266   274=314  318=405
+BSEQ               kg_d_f   y_d_peg   fryerpq    np_dyy     gg_dr   d_f_eq
+BREPART                h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       syh_mycle 	P46696    
+SEQUENCE       syh_porpu 	P51348    
+SEQUENCE       syh_streq 	P30053    
+SEQUENCE       syh_mycge 	P47281    
+

@@ -1,0 +1,36 @@
+PileUp
+
+
+
+   MSF:  106  Type: P    Check:  9960   .. 
+
+ Name: 1rms oo  Len:  106  Check:   588  Weight:  10.0
+ Name: 1fus oo  Len:  106  Check:  3756  Weight:  10.0
+ Name: rnn1_neucr oo  Len:  106  Check:  4643  Weight:  10.0
+ Name: rnt1_triha oo  Len:  106  Check:  5906  Weight:  10.0
+ Name: rnu1_ustsp oo  Len:  106  Check:  5067  Weight:  10.0
+
+//
+
+
+
+1rms            SAEYTCGSTC YWSSDVSAAK AKGYSLYESG DTI..DDYPH EYHDYEGFDF 
+1fus            ..ATTCGSTN YSASQVRAAA NAACQYYQND DTA.SSTYPH TYNNYEGFDF 
+rnn1_neucr      ACMYICGSVC YSSSAISAAL NKGYSYYEDG ATAGSSSYPH RYNNYEGFDF 
+rnt1_triha      ....TCGKVF YSASAVSAAS NAACNYVRAG STAGGSTYPH VYNNYEGFRF 
+rnu1_ustsp      .....CGGTY YSSTQVNRAI NNAKSGQYS. ....STGYPH TYNNYEGFDF 
+
+
+1rms            P..VSGTYYE YPIMSDYDVY TGGSPGADRV IFNGDD.ELA GVITHTGASG 
+1fus            P..VDGPYQE FPIKS.GGVY TGGSPGADRV VINTNB.EYA GAITHTGASG 
+rnn1_neucr      P..TAKPWYE FPILSSGRVY TGGSPGADRV IFDSHG.NLD MLITHNGASG 
+rnt1_triha      KG.LSKPFYE FPILSSGKTY TGGSPGADRV VINGQC.SIA GIITHTGASG 
+rnu1_ustsp      SDYCDGPYKE YPLKTSSSGY TGGSPGADRV VYDSNDGTFC GAITHTGASG 
+
+
+1rms            DDFVAC
+1fus            NNFVGA
+rnn1_neucr      NNFVAC
+rnt1_triha      NAFVAC
+rnu1_ustsp      NNFVQC
+

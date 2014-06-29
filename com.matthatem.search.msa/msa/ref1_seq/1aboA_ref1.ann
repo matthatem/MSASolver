@@ -1,0 +1,40 @@
+CODE           1aboA
+REFERENCE      1
+NAME           SH3		
+
+SNUM           5
+LTOT           88
+LMAX           74
+LMIN           48
+IDMEAN         18
+IDMAX          26
+IDMIN          14 
+RTOT           297
+RBLOCK         157
+RPCBLOCK       52
+
+REPARTITION    H3/h1/h1
+
+FAMILIES      3
+FAMILY              1aboA      1ycsB       1pht    
+FAMILY              1ihvA 
+FAMILY               1bb9 
+
+INSERTIONS     2
+IPOS                    9       30
+ILEN                   15        15         
+ICOMP              struct    struct         
+IREPART              3<H3      1<H3         
+
+BLOCKS        4
+BPOS                  1=8     22=28     35=40    46=57
+BSEQ                   yd        gd         w       vp
+BREPART                h5        h5        h5       h5
+
+
+SEQUENCE       1aboA     	P00520    
+SEQUENCE       1ycsB     	P04637    
+SEQUENCE       1pht      	P27986    
+SEQUENCE       1ihvA     	P00383    
+SEQUENCE       1bb9      	O00499
+

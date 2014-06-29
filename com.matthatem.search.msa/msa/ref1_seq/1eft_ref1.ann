@@ -1,0 +1,37 @@
+CODE           1eft
+REFERENCE      1
+NAME           eftu								
+
+SNUM           4
+LTOT           421
+LMAX           405
+LMIN           334
+IDMEAN         2
+IDMAX          15
+IDMIN          25
+RTOT           1513
+RBLOCK         952
+RPCBLOCK       62
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY         eftu_theaq ef1a_sulac erf2_picpi selb_ecoli 
+
+INSERTIONS     7
+IPOS                   36       172       184       324       347       356         
+ILEN                   15         5        20         5         5        10         
+ICOMP               biais    struct     biais     biais    struct    struct         
+IREPART              3<h4      1<h4      3<h4      1<h4      1<h4      3<h4         
+
+BLOCKS        9
+BPOS                14=31    51=143   154=171   210=225   231=257   278=303   316=323   338=346  368=390
+BSEQ                 ghvdiii_iii_iii     f_iii gxg_g_g_g     gd_rg    f_iiii         y   iii_rf
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       eftu_theaq	Q01698    
+SEQUENCE       ef1a_sulac	P17196    
+SEQUENCE       erf2_picpi	P23637    
+SEQUENCE       selb_ecoli	P14081    
+

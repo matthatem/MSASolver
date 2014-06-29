@@ -1,0 +1,37 @@
+CODE           1uky
+REFERENCE      1
+NAME           uridylate kinase				
+
+SNUM           4
+LTOT           261
+LMAX           220
+LMIN           186
+IDMEAN         4
+IDMAX          32
+IDMIN          11
+RTOT           812
+RBLOCK         267
+RPCBLOCK       32
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               1uky      1dvrA       1bif       1gky 
+
+INSERTIONS     5
+IPOS                   32        48        67       134      180
+ILEN                    5        10         5        30       10
+ICOMP              struct    struct    struct    struct   struct
+IREPART              1<h4      1<h4      1<h4      1<h4     1<h4
+
+BLOCKS        8
+BPOS                11=28     37=45     92=95    96=103   125=133   143=154   172=176  185=192
+BSEQ                g_gxg      lsag        ll      gfpr       dii      d_kk       l_d   yxxi_i
+BREPART                h4      3<h4        h4      2<h4        h4        h4        h4       h4
+
+
+SEQUENCE       1uky      	P15700    
+SEQUENCE       1dvrA     	P07170    
+SEQUENCE       1bif      	P25114    
+SEQUENCE       1gky      	P15454    
+

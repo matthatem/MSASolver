@@ -1,0 +1,37 @@
+CODE           1pii
+REFERENCE      1
+NAME           anthranilate isomerase							
+
+SNUM           4
+LTOT           284
+LMAX           259
+LMIN           247
+IDMEAN         2
+IDMAX          9
+IDMIN          30
+RTOT           1006
+RBLOCK         748
+RPCBLOCK       74
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY         TRPC_METTH TRPC_PHYPR TRPC_HALVO TRPC_ACICA 
+
+INSERTIONS     6
+IPOS                   27        44        66       106       204         
+ILEN                    5         5        10         5        10         
+ICOMP              struct    struct    struct    struct    struct         
+IREPART              2<h4      1<h4      2<h4      1<h4      1<h4         
+
+BLOCKS        8
+BPOS                 4=25     39=43     50=61    79=104   109=121   126=139   141=201  205=237
+BSEQ                  fxd     e_k_p   g_e_f_g        df     giiii    iiginn g_d_iiig
+BREPART                h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       TRPC_METTH	O27694    
+SEQUENCE       TRPC_PHYPR	P24920    
+SEQUENCE       TRPC_HALVO	P18304    
+SEQUENCE       TRPC_ACICA	P00911    
+

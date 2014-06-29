@@ -1,0 +1,38 @@
+CODE           1bco
+REFERENCE      1
+NAME           ribonuclease h		
+
+SNUM           5
+LTOT           224
+LMAX           200
+LMIN           135
+IDMEAN         5
+IDMAX          24
+IDMIN          8
+RTOT           816
+RBLOCK         260
+RPCBLOCK       31
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY               1bco       1vsd       1itg       1kfd      1hjrA 
+
+INSERTIONS     6
+IPOS                   16        39        48        80       113       152
+ILEN                   15        10         5        20         5        30
+ICOMP              struct    struct    struct    struct    struct   struct
+IREPART              1<h5      1<H5      2<H5      1<H5      2<h5     2<h5
+
+BLOCKS        7
+BPOS                 8=12     31=39     55=65     75=78   107=111   143=148   173=184
+BSEQ                 ll_d       lll    l_l_ll         d      kgll      erll      ll_l
+BREPART                h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       1bco      	P07636    
+SEQUENCE       1vsd      	O39643    
+SEQUENCE       1itg      	P03366    
+SEQUENCE       1kfd      	P00582    
+SEQUENCE       1hjrA     	P24239    
+

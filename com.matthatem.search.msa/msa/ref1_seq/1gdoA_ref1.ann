@@ -1,0 +1,38 @@
+CODE           1gdoA
+REFERENCE      1
+NAME           glucosamine 6-phosphate synthase									
+
+SNUM           4
+LTOT           278
+LMAX           265
+LMIN           234
+IDMEAN         2
+IDMAX          14
+IDMIN          23
+RTOT           988
+RBLOCK         630
+RPCBLOCK       63
+
+REPARTITION    H3/H1
+
+FAMILIES      2
+FAMILY         GLMS_BACSU PUR1_VIGAC   PUR1_RAT 
+FAMILY              1ecfA 
+
+INSERTIONS     4
+IPOS                   11       134       186         
+ILEN                    5         5        15         
+ICOMP              struct     biais     biais         
+IREPART              1<H3      2<H3      1<H3         
+
+BLOCKS        10
+BPOS                 1=11     15=37     41=53     61=86    93=114   117=131   151=163   167=173   176=180  187=215
+BSEQ                 gvvg        rg       gll     ghxry       hng    dteiii       gay    (r,k)d     plllg    e_y_e
+BREPART                H4        h4        h4        h4        h4        h4        h4        h4        h4     3<H3
+
+
+SEQUENCE       GLMS_BACSU	P39754    
+SEQUENCE       PUR1_VIGAC	P52419    
+SEQUENCE       PUR1_RAT  	P35433    
+SEQUENCE       1ecfA     	P00496    
+

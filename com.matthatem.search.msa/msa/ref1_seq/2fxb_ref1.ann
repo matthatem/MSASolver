@@ -1,0 +1,38 @@
+CODE           2fxb
+REFERENCE      1
+NAME           ferredoxin
+
+SNUM           5
+LTOT           65
+LMAX           62
+LMIN           55
+IDMEAN         51
+IDMAX          72
+IDMIN          36
+RTOT           287
+RBLOCK         280
+RPCBLOCK       97
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY               1clf       1fca       1blu  FER_BACSC  FER_BUTME 
+
+INSERTIONS     1
+IPOS                  41
+ILEN                  10
+ICOMP             struct
+IREPART                1
+
+BLOCKS        2
+BPOS                 1=40    42=55
+BSEQ                  c_c  c_cp_c_c      c_c
+BREPART                h5        h5       h5
+
+
+SEQUENCE       1clf      	P00195    
+SEQUENCE       1fca      	P00198    
+SEQUENCE       1blu      	P00208    
+SEQUENCE       FER_BACSC 	Q45560    
+SEQUENCE       FER_BUTME 	P14073    
+

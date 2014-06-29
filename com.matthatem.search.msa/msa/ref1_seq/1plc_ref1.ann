@@ -1,0 +1,39 @@
+CODE           1plc
+REFERENCE      1
+NAME           plastocyanin 		
+
+SNUM           5
+LTOT           101
+LMAX           99
+LMIN           88
+IDMEAN         46
+IDMAX          62
+IDMIN          37
+RTOT           470
+RBLOCK         340
+RPCBLOCK       72
+
+REPARTITION    H4/H1
+
+FAMILIES      2
+FAMILY         plas_horvu plas_chlre plas_anava plas_proho 
+FAMILY         azup_achcy 
+
+INSERTIONS     1
+IPOS                  55
+ILEN                  10
+ICOMP                   
+IREPART                4
+
+BLOCKS        6
+BPOS                 2=29     36=38     45=48     51=54     65=71    74=95
+BSEQ             fep_geti       phn       psg      a_al     fsvtl     ceph
+BREPART                h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       plas_horvu	P08248    
+SEQUENCE       plas_chlre	P18068    
+SEQUENCE       plas_anava	P00301    
+SEQUENCE       plas_proho	P50057    
+SEQUENCE       azup_achcy	P19567    
+

@@ -1,0 +1,36 @@
+PileUp
+
+
+
+   MSF:  115  Type: P    Check:  2717   .. 
+
+ Name: fkba_ecoli oo  Len:  115  Check:  8592  Weight:  10.0
+ Name: fkb2_yeast oo  Len:  115  Check:  1288  Weight:  10.0
+ Name: fkbb_ecoli oo  Len:  115  Check:  8150  Weight:  10.0
+ Name: fkb3_bovin oo  Len:  115  Check:  9455  Weight:  10.0
+ Name: mip_chltr oo  Len:  115  Check:  5232  Weight:  10.0
+
+//
+
+
+
+fkba_ecoli      GLVYQVVEAG KGEA.PKDSD TVVVNYKGTL ID.GKEFDNS YT.......R 
+fkb2_yeast      ..IKRIPVED CLIK.AMPGD KVKVHYTGSL LESGTVFDSS YS.......R 
+fkbb_ecoli      GLQFRVINQG EGAI.PARTD RVRVHYTGKL ID.GTVFDSS VA.......R 
+fkb3_bovin      ....SVLKKG DKTNFPKKGD VVHCWYTGTL QD.GTVFDTN IQTSSKKKKN 
+mip_chltr       .LQYRVVKEG TGRV.LSGKP TALLHYTGSF ID.GKVFDSS EK.......N 
+
+
+fkba_ecoli      GEPLSFRLD. .GVIPGWTEG LKNIKKGGKI KLVIPPELAY GKAGVPG..I 
+fkb2_yeast      GSPIAFELGV GRVIKGWDQG VAGMCVGEKR KLQIPSSLAY GERGVPG.VI 
+fkbb_ecoli      GEPAEFPVN. .GVIPGWIEA LTLMPVGSKW ELTIPQELAY GERGAGA.SI 
+fkb3_bovin      AKPLSFKVGI GKVIRGWDEA LLTMSKGEKA RLEIEPEWAY GKKGQPDAKI 
+mip_chltr       KEPILLPLT. .KVIPGFSQG MQGMKEGEVR VLYIHPDLAY GTAGQ....L 
+
+
+fkba_ecoli      PPNSTLVFDV ELLDV
+fkb2_yeast      PPSADLVFDV ELVDV
+fkbb_ecoli      PPFSTLVFEV ELLEI
+fkb3_bovin      PPNAKLIFEV ELVDI
+mip_chltr       PPNSLLIFEV KLIE.
+

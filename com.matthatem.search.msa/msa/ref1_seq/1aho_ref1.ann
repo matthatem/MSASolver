@@ -1,0 +1,38 @@
+CODE           1aho
+REFERENCE      1
+NAME           toxin			
+
+SNUM           5
+LTOT           76
+LMAX           65
+LMIN           61
+IDMEAN         44
+IDMAX          53
+IDMIN          39
+RTOT           320
+RBLOCK         175
+RPCBLOCK       54
+
+REPARTITION    H5
+
+FAMILIES      1
+FAMILY         scxa_buteu scx1_titse scx6_titse scx1_cenno six2_leiqu 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        4
+BPOS                 3=16     19=27     33=35    44=52
+BSEQ                 cxxc      cxxc       gyc      cxc
+BREPART                H5        H5        H5       H5
+
+
+SEQUENCE       scxa_buteu	P01490    
+SEQUENCE       scx1_titse	P01496    
+SEQUENCE       scx6_titse	P45669    
+SEQUENCE       scx1_cenno	P15223    
+SEQUENCE       six2_leiqu	P19855    
+

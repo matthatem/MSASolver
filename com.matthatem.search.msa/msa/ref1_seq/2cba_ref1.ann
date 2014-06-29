@@ -1,0 +1,38 @@
+CODE           2cba
+REFERENCE      1
+NAME           anhydrase						
+
+SNUM           5
+LTOT           295
+LMAX           259
+LMIN           237
+IDMEAN         3
+IDMAX          24
+IDMIN          22
+RTOT           1214
+RBLOCK         560
+RPCBLOCK       46
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY         CAH1_HUMAN   CAH4_RAT CAH6_HUMAN  CAH_DUNSA CAH2_CHLRE 
+
+INSERTIONS     6
+IPOS                    6        34        70        93       126         
+ILEN                   10        15        25        10        10         
+ICOMP              struct    struct    struct     biais    struct         
+IREPART              1<H5      1<h5      1<h5      3<h5      3<h5         
+
+BLOCKS        7
+BPOS                25=31     55=67     85=93   102=121   136=147   174=183  187=227
+BSEQ                 spvd      nxxh       hxh     seh_g   iii_iii       iip    sltxp
+BREPART                h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       CAH1_HUMAN	P00915    
+SEQUENCE       CAH4_RAT  	P48284    
+SEQUENCE       CAH6_HUMAN	P23280    
+SEQUENCE       CAH_DUNSA 	P54212    
+SEQUENCE       CAH2_CHLRE	P24258    
+

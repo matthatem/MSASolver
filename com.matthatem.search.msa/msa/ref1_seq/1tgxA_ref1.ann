@@ -1,0 +1,38 @@
+CODE           1tgxA
+REFERENCE      1
+NAME           cardiotoxin
+
+SNUM           4
+LTOT           69
+LMAX           64
+LMIN           57
+IDMEAN         31
+IDMAX          40
+IDMIN          27
+RTOT           239
+RBLOCK         124
+RPCBLOCK       51
+
+REPARTITION    h3/h1
+
+FAMILIES      2
+FAMILY               1tgx       1nbt       1fas 
+FAMILY               1drs            
+
+INSERTIONS     2
+IPOS                   30         
+ILEN                    5         
+ICOMP              struct         
+IREPART              2<H3         
+
+BLOCKS        5
+BPOS                  1=5     12=22     33=39        42    53=59
+BSEQ                    c       c_c        gc         c     cc_c
+BREPART                h4        h4        h4        h4       h4
+
+
+SEQUENCE       1tgx      	P01468    
+SEQUENCE       1nbt      	P01398    
+SEQUENCE       1fas      	P01403    
+SEQUENCE       1drs      	P28375    
+

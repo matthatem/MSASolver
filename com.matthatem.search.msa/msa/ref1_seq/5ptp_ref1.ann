@@ -1,0 +1,38 @@
+CODE           5ptp
+REFERENCE      1
+NAME           serine protease		
+
+SNUM           5
+LTOT           262
+LMAX           245
+LMIN           222
+IDMEAN         1
+IDMAX          10
+IDMIN          36
+RTOT           1162
+RBLOCK         930
+RPCBLOCK       80
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY               5ptp       2tbs       1ton       1pfa       1aao 
+
+INSERTIONS     3
+IPOS                   47        78      155
+ILEN                    5        10       10
+ICOMP              struct    struct   struct
+IREPART              1<h5      1<h5     1<h5
+
+BLOCKS        10
+BPOS                 1=20     23=42     50=57     63=76    81=127   136=152   155=164   170=183   189=194  196=223
+BSEQ               gg_c_q    cgg_hc       l_l      q_hpd_p_g_c_gwg       c_c     m_cag k_c_ggp_c       swg    c_y_w
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       5ptp      	P00760    
+SEQUENCE       2tbs      	P35031    
+SEQUENCE       1ton      	P00759    
+SEQUENCE       1pfa      	P07288    
+SEQUENCE       1aao      	P20231    
+

@@ -1,0 +1,38 @@
+CODE           actin
+REFERENCE      1
+NAME           actin										
+
+SNUM           5
+LTOT           415
+LMAX           395
+LMIN           379
+IDMEAN         1
+IDMAX          10
+IDMIN          36
+RTOT           1924
+RBLOCK         1570
+RPCBLOCK       81
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY         act2_dauca  act_eupcr arp1_p_car arp1_s_cer arp2_c_ele 
+
+INSERTIONS     3
+IPOS                  238       327         
+ILEN                   10        10         
+ICOMP              struct    struct         
+IREPART                 1         1         
+
+BLOCKS        11
+BPOS                 9=36     40=46    55=137   146=199   204=210   213=232   244=313   319=326   331=355   361=370         
+BSEQ               gsgxxk       grp   syp_tea   sly_egy     g_aaa       kek    yxlpdg     lxxel  kik_wxgg   mw_dyxe         
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5        h5        h5         
+
+
+SEQUENCE       act2_dauca	P23344    
+SEQUENCE       act_eupcr 	P20360    
+SEQUENCE       arp1_p_car	P42023    
+SEQUENCE       arp1_s_cer	P38696    
+SEQUENCE       arp2_c_ele	P53489    
+

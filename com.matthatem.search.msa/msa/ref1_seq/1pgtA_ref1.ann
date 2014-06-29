@@ -1,0 +1,38 @@
+CODE           1pgtA
+REFERENCE      1
+NAME           glutathione		
+
+SNUM           4
+LTOT           221
+LMAX           212
+LMIN           199
+IDMEAN         1
+IDMAX          7
+IDMIN          22
+RTOT           828
+RBLOCK         564
+RPCBLOCK       68
+
+REPARTITION    h3/h1
+
+FAMILIES      2
+FAMILY             1pgt-A       1gsu       2gsq 
+FAMILY               1gsd 
+
+INSERTIONS     3
+IPOS                   36       132         
+ILEN                   10        10         
+ICOMP               biais     biais         
+IREPART              1<h1      3<h3         
+
+BLOCKS        3
+BPOS                 5=35    53=110  143=194
+BSEQ                 yy_g   p_q_g_d   fiig_d
+BREPART                h4        h4       h4
+
+
+SEQUENCE       1pgt-A    	P09211    
+SEQUENCE       1gsu      	P20136    
+SEQUENCE       2gsq      	P46088    
+SEQUENCE       1gsd      	P08263    
+

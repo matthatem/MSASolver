@@ -1,0 +1,39 @@
+CODE           1lcf
+REFERENCE      1
+NAME           lactoferrin																			
+
+SNUM           6
+LTOT           747
+LMAX           691
+LMIN           662
+IDMEAN         1
+IDMAX          12
+IDMIN          40
+RTOT           4076
+RBLOCK         3000
+RPCBLOCK       73
+
+REPARTITION    H6
+
+FAMILIES      1
+FAMILY               1lcf trfe_rabit trf2_salsa trfe_xenla trfm_human       1aov 
+
+INSERTIONS     15
+IPOS                   28       132       163       175       215       275       293       334       365       419       479       485       512       637         
+ILEN                   10         5         5        10        15        10         5         5        10        15         5         5        10         5         
+ICOMP              struct    struct    struct     biais    struct    struct    struct    struct     biais     biais    struct    struct     biais     biais         
+IREPART              1<h6      3<h6      3<h6      4<h6      1<h6      4<h6      1<h6      2<h6      2<h6      5<h6      1<h6      1<h6      2<h6      1<h6         
+
+BLOCKS        20
+BPOS                 6=27     34=82    90=132   148=161   169=175   188=214   225=271   296=331   345=362   369=403   435=443   448=476   480=484   487=495   501=509   517=556   562=606   609=621   631=636  639=671
+BSEQ                  c_c    c_c_gg    yy_sch      ff_c       c_c     pyy_c     c_c_h llkds_ylg    wc_c_w   c_c_g_g      y_vv     ch_gw         c    y_c_pg     c_c_g    c_yygyw_df_llc_g_c      l_fg      f_fqllf_ylg_y
+BREPART                h6        h6        h6        h6        h6        h6        h6        h6        h6        h6        h6        h6        h6        h6        h6        h6        h6        h6        h6       h6
+
+
+SEQUENCE       1lcf      	P02788    
+SEQUENCE       trfe_rabit	P19134    
+SEQUENCE       trf2_salsa	P80429    
+SEQUENCE       trfe_xenla	P20233    
+SEQUENCE       trfm_human	P08582    
+SEQUENCE       1aov      	P56410    
+

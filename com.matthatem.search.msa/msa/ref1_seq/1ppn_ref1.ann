@@ -1,0 +1,38 @@
+CODE           1ppn
+REFERENCE      1
+NAME           papain
+
+SNUM           5
+LTOT           228
+LMAX           220
+LMIN           212
+IDMEAN         1
+IDMAX          7
+IDMIN          41
+RTOT           1083
+RBLOCK         950
+RPCBLOCK       87
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY               1ppn       1yal       1act       1atk       1cjl 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        8
+BPOS                 1=56     60=78    80=100   104=113   118=155   157=167   169=191  200=209
+BSEQ               p_dw_c     gcxgg       ypy        gy   e_p_e_c       gyg      knsw       cg
+BREPART                h5        h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       1ppn      	P00784    
+SEQUENCE       1yal      	P14080    
+SEQUENCE       1act      	P00785    
+SEQUENCE       1atk      	P43235    
+SEQUENCE       1cjl      	P07711    
+

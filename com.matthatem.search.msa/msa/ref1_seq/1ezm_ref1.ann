@@ -1,0 +1,38 @@
+CODE           1ezm
+REFERENCE      1
+NAME           elastase
+
+SNUM           5
+LTOT           321
+LMAX           308
+LMIN           297
+IDMEAN         1
+IDMAX          9
+IDMIN          51
+RTOT           1515
+RBLOCK         1425
+RPCBLOCK       94
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY         NPRE_BACCL NPRE_BACCE NPRE_BACAM NPRE_PAEPO NPRE_BACBR 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        7
+BPOS                 1=39    42=128   131=169   175=184   189=213   215=234   246=306
+BSEQ                gd_nr lpg_gdgdg  elth_e_e       ged   rs_pdhy     htnsg      yyr
+BREPART                h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       NPRE_BACCL	P23384    
+SEQUENCE       NPRE_BACCE	P05806    
+SEQUENCE       NPRE_BACAM	P06832    
+SEQUENCE       NPRE_PAEPO	P29148    
+SEQUENCE       NPRE_BACBR	P43263    
+

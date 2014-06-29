@@ -1,0 +1,37 @@
+CODE           2trx
+REFERENCE      1
+NAME           thioredoxin			
+
+SNUM           4
+LTOT           109
+LMAX           101
+LMIN           85
+IDMEAN         15
+IDMAX          24
+IDMIN          10
+RTOT           362
+RBLOCK         180
+RPCBLOCK       49
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               1thx       1grx       1erv      2trcP 
+
+INSERTIONS     3
+IPOS                   44        77         
+ILEN                   10        10         
+ICOMP              struct     biais         
+IREPART              1<h4      2<H4         
+
+BLOCKS        4
+BPOS                 4=27     37=42     57=64    81=86
+BSEQ                 llll     lxlxl      vp_k      l_l
+BREPART                h4        h4        h4       h4
+
+
+SEQUENCE       1thx      	P20857    
+SEQUENCE       1grx      	P00277    
+SEQUENCE       1erv      	P10599    
+SEQUENCE       2trcP     	P20942    
+

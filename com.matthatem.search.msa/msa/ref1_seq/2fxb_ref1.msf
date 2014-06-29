@@ -1,0 +1,29 @@
+PileUp
+
+
+
+   MSF:   65  Type: P    Check:   273   .. 
+
+ Name: 1clf oo  Len:   65  Check:  5959  Weight:  10.0
+ Name: 1fca oo  Len:   65  Check:  5530  Weight:  10.0
+ Name: 1blu oo  Len:   65  Check:  8321  Weight:  10.0
+ Name: FER_BACSC oo  Len:   65  Check:  6889  Weight:  10.0
+ Name: FER_BUTME oo  Len:   65  Check:  3574  Weight:  10.0
+
+//
+
+
+
+1clf           AYKIADSCVS CGA..CASEC PVNAISQGDS IFVIDADTCI DCG......N 
+1fca           AYVINEACIS CGA..CEPEC PVDAISQGGS RYVIDADTCI DCG......A 
+1blu           ALMITDECIN CDV..CEPEC PNGAISQGDE TYVIEPSLCT ECVGHYETSQ 
+FER_BACSC      AYVITEPCIG TKDASCVEVC PVDCIHEGED QYYIDPDVCI DCG......A 
+FER_BUTME      AYKITDECIA CGS..CADQC PVEAISEG.S IYEIDEALCT DCG......A 
+
+
+1clf           CANVCPVGAP VQE..
+1fca           CAGVCPVDAP VQA..
+1blu           CVEVCPVDCI IKDPS
+FER_BACSC      CEAVCPVSAI YHEDF
+FER_BUTME      CADQCPVEAI VPED.
+

@@ -1,0 +1,37 @@
+CODE           1tvxA
+REFERENCE      1
+NAME           pertussis toxin		
+
+SNUM           4
+LTOT           79
+LMAX           70
+LMIN           54
+IDMEAN         16
+IDMAX          23
+IDMIN          9
+RTOT           242
+RBLOCK         80
+RPCBLOCK       33
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY              1tvxA      1prtF       1sap      1lt5D 
+
+INSERTIONS     3
+IPOS                   15        30       36
+ILEN                    5         5       10
+ICOMP              struct    struct   struct
+IREPART              1<H4      2<h4     2<h4
+
+BLOCKS        3
+BPOS                10=15     23=28    43=49
+BSEQ                   gk      llll    lxxxl
+BREPART                h4        h4       h4
+
+
+SEQUENCE       1tvxA     	P02775    
+SEQUENCE       1prtF     	P04981    
+SEQUENCE       1sap      	P13123    
+SEQUENCE       1lt5D     	P32890    
+

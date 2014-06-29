@@ -1,0 +1,38 @@
+CODE           1amk
+REFERENCE      1
+NAME           Triose phosphate isomerase
+
+SNUM           5
+LTOT           258
+LMAX           254
+LMIN           242
+IDMEAN         1
+IDMAX          7
+IDMIN          43
+RTOT           1241
+RBLOCK         1125
+RPCBLOCK       90
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY               1amk      1timA      1htiB       1tri      1tmhD 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        5
+BPOS                 6=31     37=67    79=154   159=250         
+BSEQ                   nw     pp_qn        gh      ygg
+BREPART                h5        h5        h5       h5
+
+
+SEQUENCE       1amk      	P48499    
+SEQUENCE       1timA     	P00940    
+SEQUENCE       1htiB     	P00938    
+SEQUENCE       1tri      	P04789    
+SEQUENCE       1tmhD     	P04790    
+

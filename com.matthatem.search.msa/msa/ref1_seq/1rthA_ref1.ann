@@ -1,0 +1,38 @@
+CODE           1rthA
+REFERENCE      1
+NAME           reverse transcriptase												
+
+SNUM           5
+LTOT           556
+LMAX           541
+LMIN           526
+IDMEAN         0
+IDMAX          3
+IDMIN          37
+RTOT           2674
+RBLOCK         1990
+RPCBLOCK       74
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY          pol_sivai  pol_sivgb  pol_fivpe  pol_caevc  pol_biv27 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        13
+BPOS                3=189   196=222   227=244   253=265   268=294   317=322   324=328   366=400   405=410   437=442   455=460   470=504  514=540
+BSEQ             xxymddxx       ped       wmg       iqk     q_i_i    yxdxxk     iixxi   iiiiq_w       iip     yyvdg       y_gsnqq_nivtdi_i_i_wvp
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       pol_sivai 	Q02836    
+SEQUENCE       pol_sivgb 	P22382    
+SEQUENCE       pol_fivpe 	P16088    
+SEQUENCE       pol_caevc 	P33459    
+SEQUENCE       pol_biv27 	P19561    
+

@@ -1,0 +1,38 @@
+CODE           1taq
+REFERENCE      1
+NAME           Taq DNA polymerase																			
+
+SNUM           5
+LTOT           950
+LMAX           928
+LMIN           806
+IDMEAN         2
+IDMAX          39
+IDMIN          35
+RTOT           4326
+RBLOCK         3305
+RPCBLOCK       76
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY         dpo1_thefl dpo1_myctu dpo1_bacca dpo1_strpn DPO1_ECOLI 
+
+INSERTIONS     9
+IPOS                   21        63       132       197       278       310       359       370         
+ILEN                    5        15         5         5        40        25         5        30         
+ICOMP              struct    struct    struct    struct    struct    struct    struct    struct         
+IREPART                 2         1         3         1         4         1         1         4         
+
+BLOCKS        20
+BPOS                 4=21     24=49     52=63    64=122   125=130   140=197   203=209   220=230   232=260   297=303   328=342   347=355   380=395   402=476   480=497   502=508   510=519   522=624   629=747  752=805
+BSEQ              llllldg   g_yg_ii  iiiiiifdped_q_eadd       vtv     dnipg     ixxxi  lxxlxxxl   i_i_i_i       iig     k_i_g     d_yii     l_l_lp_me_gxxxf  kxxkt_le   piixxii      lxkl     pnlqn    rrryvp     vhde
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5       h5
+
+
+SEQUENCE       dpo1_thefl	P30313    
+SEQUENCE       dpo1_myctu	Q07700    
+SEQUENCE       dpo1_bacca	Q04957    
+SEQUENCE       dpo1_strpn	P13252    
+SEQUENCE       DPO1_ECOLI	P00582    
+

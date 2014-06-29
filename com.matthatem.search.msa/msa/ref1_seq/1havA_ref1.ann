@@ -1,0 +1,38 @@
+CODE           1havA
+REFERENCE      1
+NAME           hepatitis proteinase							
+
+SNUM           5
+LTOT           245
+LMAX           199
+LMIN           136
+IDMEAN         3
+IDMAX          20
+IDMIN          11
+RTOT           890
+RBLOCK         195
+RPCBLOCK       21
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY              1havA      1agjA       5ptp       2sga      1svpA 
+
+INSERTIONS     8
+IPOS                   36        51        68        80        93       113       125      154
+ILEN                   10        15         5        10        10        10        15        5
+ICOMP              struct     biais     biais    struct    struct    struct    struct   struct
+IREPART              2<h5      2<h5      1<h5      2<h5      1<h5      1<h5      2<h5     1<h5
+
+BLOCKS        6
+BPOS                13=18     29=35     74=80   160=169   176=184         
+BSEQ                    g         h     diiii      gxxg      iigi         
+BREPART                h5        h5        h5        h5       h5
+
+
+SEQUENCE       1havA     	P06441    
+SEQUENCE       1agjA     	P09331    
+SEQUENCE       5ptp      	P00760    
+SEQUENCE       2sga      	P00776    
+SEQUENCE       1svpA     	P27285    
+

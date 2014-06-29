@@ -1,0 +1,37 @@
+CODE           3grs
+REFERENCE      1
+NAME           glutathione reductase					
+
+SNUM           4
+LTOT           266
+LMAX           237
+LMIN           201
+IDMEAN         2
+IDMAX          14
+IDMIN          11
+RTOT           899
+RBLOCK         192
+RPCBLOCK       21
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               3grs       1nhp      1fcdA      2tmdA 
+
+INSERTIONS     6
+IPOS                   33        56        76       109       148      174
+ILEN                   10        10        10        10        10       10
+ICOMP               biais    struct    struct    struct    struct   struct
+IREPART              2<h4      3<h4      3<h4      1<h4      3<h4     1<h4
+
+BLOCKS        7
+BPOS                28=33     34=36     40=45   120=129   164=171   181=195         
+BSEQ                 iiig       agy     em_il      diii     iiigd    a_gr_l         
+BREPART                h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       3grs      	P00390    
+SEQUENCE       1nhp      	P37062    
+SEQUENCE       1fcdA     	Q06530    
+SEQUENCE       2tmdA     	P16099    
+

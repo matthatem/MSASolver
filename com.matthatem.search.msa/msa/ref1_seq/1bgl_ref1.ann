@@ -1,0 +1,37 @@
+CODE           1bgl
+REFERENCE      1
+NAME           b-galactoxidase								
+
+SNUM           4
+LTOT           1002
+LMAX           993
+LMIN           938
+IDMEAN         2
+IDMAX          11
+IDMIN          29
+RTOT           3843
+RBLOCK         2512
+RPCBLOCK       65
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY         bgal_klepn bgal_strtr bga2_ecoli bgal_klula 
+
+INSERTIONS     8
+IPOS                   31       272       512       664       678       694       788         
+ILEN                   10         5        10         5         5         5        10         
+ICOMP              struct    struct    struct    struct    struct    struct    struct         
+IREPART              3<h4      2<h4      2<h4      3<h4      2<h4      3<h4      1<h4         
+
+BLOCKS        9
+BPOS                19=27    51=125   137=227   297=498   526=616   708=714   755=781   857=952  962=989
+BSEQ                  nxlp_y_y_p_p_y  gdn_edqd  cey_fiwd       h_q     r_g_rp_p_g_y_gxgh_ixi_gvg
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4        h4         
+
+
+SEQUENCE       bgal_klepn	P06219    
+SEQUENCE       bgal_strtr	P23989    
+SEQUENCE       bga2_ecoli	P06864    
+SEQUENCE       bgal_klula	P00723    
+

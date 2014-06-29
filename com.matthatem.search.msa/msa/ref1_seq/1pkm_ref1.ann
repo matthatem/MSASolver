@@ -1,0 +1,37 @@
+CODE           1pkm
+REFERENCE      1
+NAME           pyruvate kinase										
+
+SNUM           4
+LTOT           468
+LMAX           449
+LMIN           434
+IDMEAN         1
+IDMAX          9
+IDMIN          30
+RTOT           1765
+RBLOCK         1160
+RPCBLOCK       65
+
+REPARTITION    H4
+
+FAMILIES      1
+FAMILY         kpy1_yeast kpyk_lacla kpyk_haein kpyk_mycge 
+
+INSERTIONS     4
+IPOS                   92       323       410         
+ILEN                    5        15         5         
+ICOMP              struct    struct    struct         
+IREPART                 2         1         2         
+
+BLOCKS        11
+BPOS                 3=18     42=55     72=76    93=119   126=162   169=191   198=212   113=234   243=319   383=410         
+BSEQ             l_g_fshg  l_d_gp_r     lllxt    iiiddgl_g_kxvn_ekdg_sf_d_r_ll iiakie_nn   iiii_gv         
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4        h4        h4         
+
+
+SEQUENCE       kpy1_yeast	P00549    
+SEQUENCE       kpyk_lacla	Q07637    
+SEQUENCE       kpyk_haein	P43924    
+SEQUENCE       kpyk_mycge	P47458    
+

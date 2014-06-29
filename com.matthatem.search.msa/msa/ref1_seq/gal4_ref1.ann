@@ -1,0 +1,38 @@
+CODE           gal4
+REFERENCE      1
+NAME           gal4
+
+SNUM           5
+LTOT           440
+LMAX           395
+LMIN           335
+IDMEAN         5
+IDMAX          34
+IDMIN          12
+RTOT           1808
+RBLOCK         675
+RPCBLOCK       37
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY         put3_yeast yhx8_yeast cat8_yeast yb00_yeast     s50366 
+
+INSERTIONS     7
+IPOS                   53        96       125       177       235       270      299
+ILEN                   25        20        15        10        35        10       30
+ICOMP             biaised    struct    struct    struct    struct    struct   struct
+IREPART                 3         1         2         1         2         2        3
+
+BLOCKS        8
+BPOS                18=23     79=87   113=120   137=175   188=217   247=266   288=295   316=330
+BSEQ               k_ll_f    kiiiii      ll_l   lll_f_h   rr_ww_e   l_l_k_q      wr_l      y_rp
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5
+
+
+SEQUENCE       put3_yeast	P25502    
+SEQUENCE       yhx8_yeast	P38699    
+SEQUENCE       cat8_yeast	P39113    
+SEQUENCE       yb00_yeast	P38114    
+SEQUENCE       s50366    	Q05854    
+

@@ -1,0 +1,37 @@
+CODE           1ar5A
+REFERENCE      1
+NAME           superoxide dismutase
+
+SNUM           4
+LTOT           209
+LMAX           203
+LMIN           192
+IDMEAN         1
+IDMAX          7
+IDMIN          36
+RTOT           794
+RBLOCK         656
+RPCBLOCK       82
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY              1ar5A      1idsA      3mdsB      1isaA 
+
+INSERTIONS     2
+IPOS                   48         
+ILEN                   10         
+ICOMP              struct         
+IREPART              1<H4         
+
+BLOCKS        3
+BPOS                 2=44     68=84   92=195
+BSEQ                hxxxh    nhxxfw  w_w_w_w
+BREPART                h4        h4       h4
+
+
+SEQUENCE       1ar5A     	P80293    
+SEQUENCE       1idsA     	P17670    
+SEQUENCE       3mdsB     	P09214    
+SEQUENCE       1isaA     	P09157    
+

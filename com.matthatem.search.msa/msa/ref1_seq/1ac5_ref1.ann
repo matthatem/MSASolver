@@ -1,0 +1,37 @@
+CODE           1ac5
+REFERENCE      1
+NAME           carboxypeptidase									
+
+SNUM           4
+LTOT           524
+LMAX           483
+LMIN           421
+IDMEAN         3
+IDMAX          34
+IDMIN          27
+RTOT           1779
+RBLOCK         968
+RPCBLOCK       54
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               1ac5       1ivy       1ysc CBP3_ORYSA 
+
+INSERTIONS     7
+IPOS                   34       130       193       235       290       401         
+ILEN                   10        10        10        10        40        10         
+ICOMP               biais    struct    struct    struct    struct    struct         
+IREPART              1<h4      1<h4      1<h4      1<h4      1<h4      2<h4         
+
+BLOCKS        11
+BPOS                30=36     50=58     66=96   103=127   147=167   169=190   203=229   322=332   342=349   357=398  429=467
+BSEQ                  sgy       ffw   ggpgcss  w_lll_gf     ff_pe    ge_yip       gng        yl         c    iii_cn     hmvp
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       1ac5      	P09620    
+SEQUENCE       1ivy      	P10619    
+SEQUENCE       1ysc      	P00729    
+SEQUENCE       CBP3_ORYSA	P37891    
+

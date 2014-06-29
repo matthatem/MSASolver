@@ -1,0 +1,37 @@
+CODE           2hsdA
+REFERENCE      1
+NAME           3 Alpha, 20 beta-hydroxysteroid dehydrogenase
+
+SNUM           4
+LTOT           283
+LMAX           262
+LMIN           225
+IDMEAN         2
+IDMAX          15
+IDMIN          11
+RTOT           980
+RBLOCK         376
+RPCBLOCK       38
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY              2hsdA       1fds       1eny       1dhr 
+
+INSERTIONS     3
+IPOS                   38       197         
+ILEN                   25        30         
+ICOMP              struct    struct         
+IREPART              4<H4      3<h4         
+
+BLOCKS        9
+BPOS                 7=12     16=22     32=35     78=88   106=122   130=140   144=165   177=186  218=223
+BSEQ                 iiig     glg_a       lll      diii    vv_l_l      gxii         k     av_l
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       2hsdA     	P19992    
+SEQUENCE       1fds      	P14061    
+SEQUENCE       1eny      	P46533    
+SEQUENCE       1dhr      	P11348    
+

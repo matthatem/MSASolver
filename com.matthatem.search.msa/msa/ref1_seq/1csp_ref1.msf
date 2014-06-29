@@ -1,0 +1,29 @@
+PileUp
+
+
+
+   MSF:   76  Type: P    Check:   880   .. 
+
+ Name: 1csp oo  Len:   76  Check:  1363  Weight:  10.0
+ Name: 1mef oo  Len:   76  Check:  3533  Weight:  10.0
+ Name: csp7_strcl oo  Len:   76  Check:  3552  Weight:  10.0
+ Name: grp2_nicsy oo  Len:   76  Check:  2259  Weight:  10.0
+ Name: cbfx_mouse oo  Len:   76  Check:   173  Weight:  10.0
+
+//
+
+
+
+1csp            ...MLEGKVK WFNSEKGFGF IEV.EGQDDV FVHFSAIQG. ...EGFKTLE 
+1mef            MSGKMTGIVK WFNADKGFGF ITPDDGSKDV FVHFSAIQN. ...DGYKSLD 
+csp7_strcl      ...MATGTVK WFNAEKGFGF IAQDGGGPDV FVHYSAINA. ...TGFRSLE 
+grp2_nicsy      .....KGTVK WFSDQKGFGF ITPDDGGEDL FVHQSGIRS. ...EGFRSLA 
+cbfx_mouse      ....VLGTVK WFNVRNGYGF INRNDTKEDV FVHQTAIKKN NPRKYLRSVG 
+
+
+1csp            EGQAVSFEIV EGNRG.PQAA NVTKEA
+1mef            EGQKVSFTIE SGAKG.PAAG NVTSL.
+csp7_strcl      ENQVVNFDVT HG.EG.PQAE NVSPA.
+grp2_nicsy      EGETVEFEVE SGGDGRTKAV DVTGP.
+cbfx_mouse      DGETVEFDVV EGEKG.AEAA NVTGP.
+

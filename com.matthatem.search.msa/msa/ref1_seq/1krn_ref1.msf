@@ -1,0 +1,29 @@
+PileUp
+
+
+
+   MSF:   82  Type: P    Check:  1479   .. 
+
+ Name: plmn_petma oo  Len:   82  Check:  8747  Weight:  10.0
+ Name: urot_rat oo  Len:   82  Check:  2949  Weight:  10.0
+ Name: urtg_desro oo  Len:   82  Check:  3567  Weight:  10.0
+ Name: hgfa_human oo  Len:   82  Check:  9730  Weight:  10.0
+ Name: fa12_human oo  Len:   82  Check:  6486  Weight:  10.0
+
+//
+
+
+
+plmn_petma      ACVKGTGEGY RGTAALTVSG KACQAWASQT P.GDVYSCQ. ......GLV. 
+urot_rat        DCYVGKGVTY RGTHSFTTSK ASCLPWNSMI LIGKTYTAWR ANSQALGLGR 
+urtg_desro      TCYKDQGVTY RGTWSTSESG AQCINWNSNL LIRRTYNGRM PEAVKLGLGN 
+hgfa_human      .CFLGNGTGY RGVASTSASG LSCLAWNSDL LYQELHVDSV GAAALLGLGP 
+fa12_human      SCYDGRGLSY RGLARTTLSG APCQPWASEA TYRNVTAEQ. ..ARNWGLGG 
+
+
+plmn_petma      SNYCRNPDGE KLPWCYTT.. .....EYCNV PS
+urot_rat        HNYCRNPDGD AKPWCHVMKD RKLTWEYCDM SP
+urtg_desro      HNYCRNPDGA SKPWCYVIKA RKFTSESCSV PV
+hgfa_human      HAYCRNPDND ERPWCYVVKD SALSWEYCRL EA
+fa12_human      HAFCRNPDND IRPWCFVLNR DRLSWEYCDL AQ
+

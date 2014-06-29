@@ -1,0 +1,37 @@
+CODE           1hpi
+REFERENCE      1
+NAME           High-potential iron-sulfur protein
+
+SNUM           4
+LTOT           85
+LMAX           78
+LMIN           68
+IDMEAN         33
+IDMAX          36
+IDMIN          25
+RTOT           293
+RBLOCK         184
+RPCBLOCK       62
+
+REPARTITION    H4
+
+FAMILIES      1
+FAMILY               1hpi       1hip      2hipA hpis_rhoge 
+
+INSERTIONS     1
+IPOS                    
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        3
+BPOS                12=20     30=41    45=67
+BSEQ                    y      cxxc    cxxxc
+BREPART                h4        h4       h4
+
+
+SEQUENCE       1hpi      	P38524    
+SEQUENCE       1hip      	P00260    
+SEQUENCE       2hipA     	P04168    
+SEQUENCE       hpis_rhoge	P00265    
+

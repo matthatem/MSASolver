@@ -1,0 +1,37 @@
+CODE           1ajsA
+REFERENCE      1
+NAME           aminotransferase						
+
+SNUM           4
+LTOT           449
+LMAX           387
+LMIN           358
+IDMEAN         3
+IDMAX          20
+IDMIN          11
+RTOT           1481
+RBLOCK         483
+RPCBLOCK       32
+
+REPARTITION    H4
+
+FAMILIES      1
+FAMILY              1ajsA       2dkb      2gsaA      1ax4A 
+
+INSERTIONS     6
+IPOS                   10       103       184       318       337         
+ILEN                   10        15        15        10        15         
+ICOMP                   
+IREPART              1<H4      1<H4      1<H4      2<H4      1<H4         
+
+BLOCKS        14
+BPOS                 2=12     30=38     61=69     83=86     91=96   120=129   134=143   159=175   200=204   218=221   251=257   265=283   321=330   347=355
+BSEQ                p_l_l       l_l       g_l       pll        fh      dl_l       l_l     l_lld       d_t       l_l     a_gxr    g_l_ll      l_gl        ld
+BREPART                h3        h4        h4        h4        h4        h4        h4        h4        h4        h4        h3        h3        h4       h4
+
+
+SEQUENCE       1ajsA     	P00503    
+SEQUENCE       2dkb      	P16932    
+SEQUENCE       2gsaA     	P24630    
+SEQUENCE       1ax4A     	P28796    
+

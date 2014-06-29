@@ -1,0 +1,38 @@
+CODE           arp
+REFERENCE      1
+NAME           actin
+
+SNUM           5
+LTOT           450
+LMAX           418
+LMIN           380
+IDMEAN         3
+IDMAX          20
+IDMIN          22
+RTOT           1985
+RBLOCK         1305
+RPCBLOCK       65
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY         arp1_n_cra arp2_d_mel arp3_b_tau arpx_d_mel arpx_c_ele 
+
+INSERTIONS     5
+IPOS                   44       148       237       258       328
+ILEN                    5        10        10        20        20
+ICOMP              struct    struct    struct   biaised    struct
+IREPART                 1         2         1         2         2
+
+BLOCKS        12
+BPOS                 9=29     32=35     54=57     73=93    97=146   154=207   212=225   246=251   259=276   280=323   331=355    362=37
+BSEQ             gtg_gyag       iip     iigde     g_w_w     evmfe  dsg_dvag       kek      yvlp     peilf   niiiigg      wxgg      i_ew
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5
+
+
+SEQUENCE       arp1_n_cra	P38673    
+SEQUENCE       arp2_d_mel	P45888    
+SEQUENCE       arp3_b_tau	P32391    
+SEQUENCE       arpx_d_mel	P45890    
+SEQUENCE       arpx_c_ele	Q17351    
+

@@ -1,0 +1,38 @@
+CODE           glg
+REFERENCE      1
+NAME           glutamyl-trna synthetase
+
+SNUM           5
+LTOT           514
+LMAX           486
+LMIN           438
+IDMEAN         2
+IDMAX          15
+IDMIN          28
+RTOT           2341
+RBLOCK         1425
+RPCBLOCK       60
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY           glu_hpyl    mg39733    scmse1g  glu_mlepr  glu_pylor 
+
+INSERTIONS     8
+IPOS                   71       135       164       217       272       324       368      408
+ILEN                   10        10        10         5        10        20        15       10
+ICOMP             biaised    struct    struct    struct    struct    struct    struct   struct
+IREPART                 2         3         1         1         1         3         1        3
+
+BLOCKS        11
+BPOS                 5=70    74=106   122=129   140=146   152=163   168=217   225=232   237=270   276=312   428=448   452=458
+BSEQ               rfapsp    q_yycy       y_l     vvrik       fxd   dd_rg_a     fxhxp kklskr_nf exf_k_nah     lrlll       rlk
+BREPART                h5        h5        h5        h5        h5        h5        h5        h5        h5        h5        h5
+
+
+SEQUENCE       glu_hpyl  	P96551    
+SEQUENCE       mg39733   	P47700    
+SEQUENCE       scmse1g   	P48525    
+SEQUENCE       glu_mlepr 	O33120    
+SEQUENCE       glu_pylor 	O25360    
+

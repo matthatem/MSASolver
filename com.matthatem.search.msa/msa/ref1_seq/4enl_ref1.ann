@@ -1,0 +1,36 @@
+CODE           4enl
+REFERENCE      1
+NAME           enolase											
+
+SNUM           3
+LTOT           441
+LMAX           421
+LMIN           333
+IDMEAN         4
+IDMAX          24
+IDMIN          17
+RTOT           1094
+RBLOCK         528
+RPCBLOCK       48
+
+REPARTITION    h3
+
+FAMILIES      1
+FAMILY               4enl      1mucA       2mnr 
+
+INSERTIONS     10
+IPOS                   14        36        78       135       154       198       253       375       399         
+ILEN                   15        25         5        10        25        10        25         5        10         
+ICOMP              struct    struct    struct   biaised    struct   biaised    struct    struct    struct         
+IREPART                 2         1         1         1         1         1         1         2         1         
+
+BLOCKS        12
+BPOS                 3=12     17=28     31=36     62=68     72=77     89=95   112=133   181=188   221=236   241=246   285=321  330=368
+BSEQ                sk_yd   gnp_exe      sivp     lkxxk       apa     l_l_l   gv_lp_l       e_e    eeexii    ixixid   edp_piv   gg_kaa
+BREPART                h3        h3        h3        h3        h3        h3        h3        h3        h3        h3        h3       h3
+
+
+SEQUENCE       4enl      	P00924    
+SEQUENCE       1mucA     	P08310    
+SEQUENCE       2mnr      	P11444    
+

@@ -1,0 +1,38 @@
+CODE           9rnt
+REFERENCE      1
+NAME           Ribonuclease		
+
+SNUM           5
+LTOT           106
+LMAX           103
+LMIN           96
+IDMEAN         57
+IDMAX          65
+IDMIN          51
+RTOT           499
+RBLOCK         405
+RPCBLOCK       81
+
+REPARTITION    h5
+
+FAMILIES      1
+FAMILY               1rms       1fus rnn1_neucr rnt1_triha rnu1_ustsp 
+
+INSERTIONS     0
+IPOS           
+ILEN                    
+ICOMP                   
+IREPART                 
+
+BLOCKS        3
+BPOS                 6=22     36=48   52=101
+BSEQ                  sss    ph_nny ggspgadr
+BREPART                h5        h5       h5
+
+
+SEQUENCE       1rms      	P00653    
+SEQUENCE       1fus      	P10282    
+SEQUENCE       rnn1_neucr	P09646    
+SEQUENCE       rnt1_triha	P26875    
+SEQUENCE       rnu1_ustsp	P07736    
+

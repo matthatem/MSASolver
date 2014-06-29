@@ -1,0 +1,37 @@
+CODE           1ubi
+REFERENCE      1
+NAME           ubiquitin
+
+SNUM           4
+LTOT           104
+LMAX           94
+LMIN           76
+IDMEAN         15
+IDMAX          21
+IDMIN          11
+RTOT           327
+RBLOCK         100
+RPCBLOCK       30
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               1ubi      1guaB       1alo       1awd 
+
+INSERTIONS     3
+IPOS                   39        47         
+ILEN                   10        20         
+ICOMP               biais    struct         
+IREPART              3<h3      2<h3         
+
+BLOCKS        3
+BPOS                13=27     36=39    66=71
+BSEQ                l_l_l        ip      l_l
+BREPART                h4        h4       h4
+
+
+SEQUENCE       1ubi      	P02248    
+SEQUENCE       1guaB     	P04049    
+SEQUENCE       1alo      	Q46509    
+SEQUENCE       1awd      	P56408    
+

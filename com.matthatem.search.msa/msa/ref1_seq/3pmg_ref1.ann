@@ -1,0 +1,37 @@
+CODE           3pmg
+REFERENCE      1
+NAME           phosphoglucomutase
+
+SNUM           4
+LTOT           589
+LMAX           567
+LMIN           540
+IDMEAN         2
+IDMAX          7
+IDMIN          43
+RTOT           2224
+RBLOCK         1776
+RPCBLOCK       79
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY         pgmu_rabit pgmu_agrtu parf_parte pgm1_yeast 
+
+INSERTIONS     8
+IPOS                  106       159       173       214       278       405       448         
+ILEN                    5         5        10         5        10        10        15         
+ICOMP              struct    struct    struct   biaised    struct    struct    struct         
+IREPART                 1         1         2         1         1         2         3         
+
+BLOCKS        14
+BPOS                11=28     33=46    55=105   109=121   125=158   164=170   185=212   217=273   282=297   302=306   326=405   407=444   470=520  530=560
+BSEQ                pgtsg       enf ggdg_gqgg     ggiii pggp_pape   ixixxig       fdf  gpy_pdpn      dgdg       psd     ptgwk    rxffsr  nqgi_gtg   li_ept
+BREPART                h4        h4        h4        h4        h4        h4        h4        h4        h4        h4        h4        h4        h4       h4
+
+
+SEQUENCE       pgmu_rabit	P00949    
+SEQUENCE       pgmu_agrtu	P39671    
+SEQUENCE       parf_parte	P47244    
+SEQUENCE       pgm1_yeast	P33401    
+

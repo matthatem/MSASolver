@@ -1,0 +1,37 @@
+CODE           1r69
+REFERENCE      1
+NAME           repressor		
+
+SNUM           4
+LTOT           80
+LMAX           74
+LMIN           59
+IDMEAN         12
+IDMAX          19
+IDMIN          9
+RTOT           277
+RBLOCK         80
+RPCBLOCK       28
+
+REPARTITION    h4
+
+FAMILIES      1
+FAMILY               1r69      1au7A       1neq      1a04A 
+
+INSERTIONS     2
+IPOS                   24       39
+ILEN                   10        5
+ICOMP              struct   struct
+IREPART              1<h5     1<h5
+
+BLOCKS        3
+BPOS                  5=6     15=24    27=34    43=52
+BSEQ                   rv lxxxlxxxl  t_ixxxi     kl_l_l
+BREPART                h4        h4       h4     h3
+
+
+SEQUENCE       1r69      	P16117    
+SEQUENCE       1au7A     	P10037    
+SEQUENCE       1neq      	P06020    
+SEQUENCE       1a04A     	P10957    
+
