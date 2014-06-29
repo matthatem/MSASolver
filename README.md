@@ -9,17 +9,17 @@ minimum cost alignments.  It's provided as a Maven project written in
 Java.  Below are instructions for building and running a simple
 experiment.
 
-### Build
+#### Build
 
 1. Install a recent version of Maven
 2. Run 'mvn install' in the same directory as pom.xml
 
-### Run
+#### Run
 
 1. Install a recent version of Ant
 2. Run a simple experiment with 'ant -f msa.xml'
 
-### Experiments
+#### Experiments
 
 When you run as described above the solver runs with the A* algorithm
 and solves a very simple instance.  Statistics are output to a
@@ -35,16 +35,16 @@ You can specify an alternative output directory with -Doutput
 
 You can specify an alternative input directory with -Dinput
 
-    'ant -f msa.xml MSASolver.balibase -Doutput="/my/input/directory"'
+    'ant -f msa.xml MSASolver.balibase -Dinput="/my/input/directory"'
 
 Input files must end in '.seq' and be formatted the same way the
 included seq files are formatted.
 
-### Files
+#### Files
 
-msa/ref1_seq - a directory containing files for BAliBASE Ref.1 benchmarks
-msa/ref1_seq_easy - a directory containing files for BAliBASE Ref.1 benchmarks
-msa/pam250.sub - a file that contains the PAM250 cost matrix
-src - a  directory that contains the Java src files
-msa.xml - an ant script for running experiments
-pom.xml - Maven POM file for building and collecting dependencies
+msa/ref1_seq - a directory containing files for BAliBASE Ref.1 benchmarks  
+msa/ref1_seq_easy - a directory containing files for BAliBASE Ref.1 benchmarks  
+msa/pam250.sub - a file that contains the PAM250 cost matrix  
+src - a  directory that contains the Java src files  
+msa.xml - an ant script for running experiments  
+pom.xml - Maven POM file for building and collecting dependencies  
