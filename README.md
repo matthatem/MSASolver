@@ -42,9 +42,9 @@ included seq files are formatted.
 
 #### Files
 
-msa/ref1_seq - a directory containing files for BAliBASE Ref.1 benchmarks  
-msa/ref1_seq_easy - a directory containing files for BAliBASE Ref.1 benchmarks  
-msa/pam250.sub - a file that contains the PAM250 cost matrix  
-src - a  directory that contains the Java src files  
-msa.xml - an ant script for running experiments  
-pom.xml - Maven POM file for building and collecting dependencies  
+     msa/ref1_seq - a directory containing files for BAliBASE Ref.1 benchmarks  
+     msa/ref1_seq_easy - a directory containing files for BAliBASE Ref.1 benchmarks  
+     msa/pam250.sub - a file that contains the PAM250 cost matrix  
+     src - a  directory that contains the Java src files  
+     msa.xml - an ant script for running experiments  
+     pom.xml - Maven POM file for building and collecting dependencies  
