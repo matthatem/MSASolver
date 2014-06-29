@@ -3,11 +3,10 @@ MSASolver
 
 Heuristic search for Multiple Sequence Alignment (MSA)
 
-This is project contains an implementation of the MSA domain with
-affine gap costs and a version of the A* algorithm for computing
-minimum cost alignments.  It's provided as a Maven project written in
-Java.  Below are instructions for building and running a simple
-experiment.
+This project contains an implementation of the MSA domain with affine
+gap costs and a version of the A* algorithm for computing minimum cost
+alignments.  It's provided as a Maven project written in Java.  Below
+are instructions for building and running a simple experiment.
 
 #### Build
 
