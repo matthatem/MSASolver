@@ -27,15 +27,15 @@ plain text file.  The msa.xml defaults to this simple setup.  To run
 the solver on the full set of "easy" instances (solvable by A* on a
 machine with at least 10GB) run the following command:
 
-    'ant -f msa.xml MSASolver.balibase'
+    ant -f msa.xml MSASolver.balibase
 
 You can specify an alternative output directory with -Doutput
 
-    'ant -f msa.xml MSASolver.balibase -Doutput="/my/output/directory"'
+    ant -f msa.xml MSASolver.balibase -Doutput="/my/output/directory"
 
 You can specify an alternative input directory with -Dinput
 
-    'ant -f msa.xml MSASolver.balibase -Dinput="/my/input/directory"'
+    ant -f msa.xml MSASolver.balibase -Dinput="/my/input/directory"
 
 Input files must end in '.seq' and be formatted the same way the
 included seq files are formatted.
